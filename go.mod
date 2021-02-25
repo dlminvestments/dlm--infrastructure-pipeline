@@ -61,7 +61,7 @@ require (
 	github.com/aerospike/aerospike-client-go v3.1.1+incompatible
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190620160927-9418d7b0cd0f
 	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5
-	github.com/apple/foundationdb/bindings/go v0.0.0-20190411004307-cd5c9d91fad2
+	github.com/apple/foundationdb/bindings/go ef9d20a4c233
 	github.com/armon/go-metrics v0.3.4
 	github.com/armon/go-proxyproto v0.0.0-20190211145416-68259f75880e
 	github.com/armon/go-radix v1.0.0
