@@ -98,7 +98,7 @@
   "dependencies": {},
   "peerDependencies": {
     "@popperjs/core": "^2.8.3"
-    "tape": "^3.5.0",
+    "tape" "^3.5.0",
     "benchmark": "^1.0.0",
     "sinon": "^1.17.2",
     "temp": "^0.8.2"
