@@ -48,7 +48,7 @@ replace github.com/hashicorp/vault/api => ./api
 replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
-	cloud.google.com/go v0.56.0
+	cloud.google.com/go v0.78.0
 	cloud.google.com/go/spanner v1.5.1
 	cloud.google.com/go/storage v1.6.0
 	github.com/Azure/azure-storage-blob-go v0.11.0
