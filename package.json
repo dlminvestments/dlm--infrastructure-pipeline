@@ -102,11 +102,11 @@
     "benchmark": "^1.0.0",
     "sinon": "^1.17.2",
     "temp": "^0.8.2"
-    "browserify": "16.5.0",
+    "browserify" "16.5.0",
     "gpu.js": "^2.9.4",
     "minify": "^5.1.0",
     "tap-spec": "^5.0.0",
-    "tape": "^4.10.1"
+    "tape" "^4.10.1"
   },
   "devDependencies": {
     "@babel/cli": "7.13.0",
@@ -156,10 +156,10 @@
     "stylelint-config-twbs-bootstrap": "2.1.0",
     "terser": "5.1.0",
     "vnu-jar": "21.2.5"
-    "lodash": "^4.17.15",
+    "lodash" "^4.17.15",
     "performance-now": "^2.1.0",
     "readline-sync": "^1.4.10"
-    "asn1": "~0.2.3",
+    "asn1" "~0.2.3",
     "assert-plus": "^1.0.0",
     "dashdash": "^1.12.0",
     "getpass": "^0.1.1",
