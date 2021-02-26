@@ -193,7 +193,7 @@ require (
 	go.mongodb.org/mongo-driver v1.4.2
 	go.uber.org/atomic v1.6.0
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/net v0.0.0-20201002202402-0a1ea396d57c
+	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c
 	golang.org/x/tools v0.0.0-20200521155704-91d71f6c2f04
