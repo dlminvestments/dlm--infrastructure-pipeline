@@ -100,7 +100,7 @@ require (
 	github.com/hashicorp/go-discover 738cb3105cd0
 	github.com/hashicorp/go-gcp-common v0.6.0
 	github.com/hashicorp/go-hclog v0.15.0
-	github.com/hashicorp/go-kms-wrapping v0.5.16
+	github.com/hashicorp/go-kms-wrapping v0.6.1
 	github.com/hashicorp/go-memdb v1.0.2
 	github.com/hashicorp/go-msgpack v0.5.5
 	github.com/hashicorp/go-multierror v1.1.0
