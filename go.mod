@@ -97,7 +97,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-bindata v3.0.8-0.20180209072458-bf7910af8997+incompatible
 	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-discover v0.0.0-20200812215701-c4b85f6ed31f
+	github.com/hashicorp/go-discover 738cb3105cd0
 	github.com/hashicorp/go-gcp-common v0.6.0
 	github.com/hashicorp/go-hclog v0.14.1
 	github.com/hashicorp/go-kms-wrapping v0.5.16
