@@ -52,7 +52,7 @@ require (
 	cloud.google.com/go/spanner v1.5.1
 	cloud.google.com/go/storage v1.6.0
 	github.com/Azure/azure-storage-blob-go v0.12.0
-	github.com/Azure/go-autorest/autorest v0.11.10
+	github.com/Azure/go-autorest/autorest v0.11.18
 	github.com/Azure/go-autorest/autorest/adal v0.11.18
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/SAP/go-hdb v0.102.7
