@@ -72,7 +72,7 @@ require (
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
 	github.com/client9/misspell v0.3.4
 	github.com/cockroachdb/cockroach-go v0.0.0-20181001143604-e0a95dfd547c
-	github.com/coreos/go-semver v0.2.0
+	github.com/coreos/go-semver v0.3.0
 	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/docker/docker v17.12.0-ce-rc4+incompatible
 	github.com/docker/go-connections v0.4.0
