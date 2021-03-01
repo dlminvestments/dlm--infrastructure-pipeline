@@ -178,7 +178,7 @@ require (
 	github.com/sasha-s/go-deadlock v0.2.0
 	github.com/sethvargo/go-limiter v0.3.0
 	github.com/shirou/gopsutil v3.21.1+incompatible
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/ulikunitz/xz v0.5.7 // indirect
 	github.com/xdg/stringprep v1.0.0 // indirect
