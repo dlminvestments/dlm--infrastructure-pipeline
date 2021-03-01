@@ -187,7 +187,7 @@ require (
 	go.etcd.io/bbolt v1.3.5
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20200425165423-262c93980547
 	go.mongodb.org/mongo-driver v1.4.2
-	go.uber.org/atomic v1.6.0
+	go.uber.org/atomic v1.7.0
 	golang.org/x/crypto 5ea612d1eb83
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
