@@ -155,7 +155,7 @@ require (
 	github.com/mitchellh/gox v1.0.1
 	github.com/mitchellh/mapstructure v1.3.3
 	github.com/mitchellh/reflectwalk v1.0.1
-	github.com/mongodb/go-client-mongodb-atlas v0.1.2
+	github.com/mongodb/go-client-mongodb-atlas v0.7.2
 	github.com/natefinch/atomic 18c0533a5b09
 	github.com/ncw/swift v1.0.47
 	github.com/nwaples/rardecode v1.1.0 // indirect
