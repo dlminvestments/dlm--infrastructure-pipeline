@@ -140,7 +140,7 @@ require (
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.1.0
 	github.com/hashicorp/vault/api v1.0.5-0.20210210214158-405eced08457
 	github.com/hashicorp/vault/sdk v0.1.14-0.20210127185906-6b455835fa8c
-	github.com/influxdata/influxdb v0.0.0-20190411212539-d24b7ba8c4c4
+	github.com/influxdata/influxdb v0.13.0
 	github.com/jcmturner/gokrb5/v8 v8.0.0
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
 	github.com/jefferai/jsonx v1.0.0
