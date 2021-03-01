@@ -148,7 +148,7 @@ require (
 	github.com/mattn/go-colorable v0.1.7
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/michaelklishin/rabbit-hole v0.0.0-20191008194146-93d9988f0cd5
-	github.com/mitchellh/cli v1.1.1
+	github.com/mitchellh/cli v1.1.2
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-testing-interface v1.14.0
