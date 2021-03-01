@@ -145,7 +145,7 @@ require (
 	github.com/kr/pretty v0.2.1
 	github.com/kr/text v0.2.0
 	github.com/lib/pq v1.9.0
-	github.com/mattn/go-colorable v0.1.7
+	github.com/mattn/go-colorable v0.1.8
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/michaelklishin/rabbit-hole v0.0.0-20191008194146-93d9988f0cd5
 	github.com/mitchellh/cli v1.1.1
