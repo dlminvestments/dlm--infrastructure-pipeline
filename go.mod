@@ -159,7 +159,7 @@ require (
 	github.com/natefinch/atomic 18c0533a5b09
 	github.com/ncw/swift v1.0.47
 	github.com/nwaples/rardecode v1.1.0 // indirect
-	github.com/oklog/run v1.0.0
+	github.com/oklog/run v1.1.0
 	github.com/okta/okta-sdk-golang/v2 v2.0.0
 	github.com/oracle/oci-go-sdk v12.5.0+incompatible
 	github.com/ory/dockertest v3.3.5+incompatible
