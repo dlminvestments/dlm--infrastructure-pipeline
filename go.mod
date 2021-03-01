@@ -172,7 +172,7 @@ require (
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/common v0.11.1
 	github.com/rboyer/safeio v0.2.1
-	github.com/ryanuber/columnize v2.1.0+incompatible
+	github.com/ryanuber/columnize v2.1.2+incompatible
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/samuel/go-zookeeper 7117e9ea2414
 	github.com/sasha-s/go-deadlock v0.2.0
