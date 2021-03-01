@@ -192,7 +192,7 @@ require (
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
-	golang.org/x/tools v0.0.0-20200521155704-91d71f6c2f04
+	golang.org/x/tools v0.1.0
 	google.golang.org/api v0.29.0
 	google.golang.org/grpc v1.29.1
 	google.golang.org/protobuf v1.25.0
