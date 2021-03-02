@@ -86,7 +86,7 @@ require (
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/go-test/deep v1.0.7
-	github.com/google/go-github v17.0.0+incompatible
+	github.com/google/go-github/v33 v33.0.0
 	github.com/google/go-metrics-stackdriver v0.2.0
 	github.com/hashicorp/consul-template v0.25.2
 	github.com/hashicorp/consul/api v1.8.1
