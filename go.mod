@@ -167,7 +167,7 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/posener/complete v1.2.3
+	github.com/posener/complete/v2/v2 v2.0.0
 	github.com/pquerna/otp v1.2.1-0.20191009055518-468c2dd2b58d
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/common v0.11.1
