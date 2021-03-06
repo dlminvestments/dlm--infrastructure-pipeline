@@ -108,7 +108,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/hcl/v2/v2 v2.9.0
-	github.com/hashicorp/nomad/api v0.12.10
+	github.com/hashicorp/nomad/api v1.0.4
 	github.com/hashicorp/raft v1.2.0
 	github.com/hashicorp/raft-snapshot v1.0.3
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.8.0
