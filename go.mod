@@ -9,7 +9,7 @@ require (
 	github.com/hashicorp/go-getter v1.5.2
 	github.com/hashicorp/go-retryablehttp v0.6.8
 	github.com/hashicorp/go-version v1.2.1
-	github.com/hashicorp/hcl/v2 v2.9.0
+	github.com/hashicorp/hcl/v2 v2.9.1
 	github.com/iancoleman/strcase v0.1.3
 	github.com/mattn/go-isatty v0.0.12
 	github.com/open-policy-agent/opa v0.26.0
