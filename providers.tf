@@ -7,7 +7,7 @@ terraform {
     }
     vault = {
       source  = "hashicorp/vault"
-      version = "~> 2.18.0"
+      version = "~> 2.19.0"
     }
   }
   backend "remote" {}
