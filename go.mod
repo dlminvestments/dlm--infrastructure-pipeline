@@ -30,7 +30,7 @@ module github.com/google/go-github/v33
 
 require (
 	github.com/golang/protobuf v1.3.2 // indirect
-	github.com/google/go-querystring v1.0.0
+	github.com/google/go-querystring v1.1.0
 	golang.org/x/crypto 5ea612d1eb83
 	golang.org/x/net v0.0.0-20190311183353-d8887717615a // indirect
 	golang.org/x/oauth2 9bb904979d93
