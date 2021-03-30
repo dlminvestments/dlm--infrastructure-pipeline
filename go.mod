@@ -147,7 +147,7 @@ require (
 	github.com/lib/pq v1.10.0
 	github.com/mattn/go-colorable v0.1.8
 	github.com/mholt/archiver v3.5.0+incompatible
-	github.com/michaelklishin/rabbit-hole/v2/v2 v2.6.0
+	github.com/michaelklishin/rabbit-hole/v2/v2 v2.7.0
 	github.com/mitchellh/cli v1.1.2
 	github.com/mitchellh/copystructure v1.1.1
 	github.com/mitchellh/go-homedir v1.1.0
