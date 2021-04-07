@@ -13,7 +13,7 @@ require (
 	github.com/iancoleman/strcase v0.1.3
 	github.com/mattn/go-isatty v0.0.12
 	github.com/open-policy-agent/opa v0.26.0
-	github.com/pelletier/go-toml v1.8.1
+	github.com/pelletier/go-toml v1.9.0
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.1.3
