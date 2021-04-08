@@ -59,7 +59,7 @@ require (
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go/v4 v4.4.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1018
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1020
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.1.7
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
 	github.com/armon/go-metrics v0.3.6
