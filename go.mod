@@ -71,7 +71,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.1.0
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
 	github.com/client9/misspell v0.3.4
-	github.com/cockroachdb/cockroach-go/v2/v2 v2.1.0
+	github.com/cockroachdb/cockroach-go/v2/v2 v2.1.1
 	github.com/coreos/go-semver v0.3.0
 	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/docker/docker/v20 v20.10.5
