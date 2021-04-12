@@ -74,7 +74,7 @@ require (
 	github.com/cockroachdb/cockroach-go/v2/v2 v2.1.1
 	github.com/coreos/go-semver v0.3.0
 	github.com/denisenkom/go-mssqldb v0.9.0
-	github.com/docker/docker/v20 v20.10.5
+	github.com/docker/docker/v20 v20.10.6
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
