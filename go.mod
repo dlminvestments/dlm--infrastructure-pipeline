@@ -144,7 +144,7 @@ require (
 	github.com/keybase/go-crypto de78d2cb44f4
 	github.com/kr/pretty v0.2.1
 	github.com/kr/text v0.2.0
-	github.com/lib/pq v1.10.0
+	github.com/lib/pq v1.10.1
 	github.com/mattn/go-colorable v0.1.8
 	github.com/mholt/archiver v3.5.0+incompatible
 	github.com/michaelklishin/rabbit-hole/v2/v2 v2.8.0
