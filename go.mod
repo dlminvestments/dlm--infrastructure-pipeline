@@ -18,7 +18,7 @@ require (
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/zclconf/go-cty v1.8.2
+	github.com/zclconf/go-cty v1.8.3
 	go.uber.org/zap v1.16.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.4.0
