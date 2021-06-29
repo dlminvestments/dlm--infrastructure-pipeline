@@ -194,7 +194,7 @@ require (
 	golang.org/x/sys a50acf3fe073
 	golang.org/x/tools v0.1.4
 	google.golang.org/api v0.48.0
-	google.golang.org/grpc v1.38.0
+	google.golang.org/grpc v1.39.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
 	gopkg.in/ory-am/dockertest.v3 v3.7.0
