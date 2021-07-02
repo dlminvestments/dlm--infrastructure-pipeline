@@ -66,7 +66,7 @@ require (
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.38.71
+	github.com/aws/aws-sdk-go v1.39.0
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
