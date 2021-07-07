@@ -160,7 +160,7 @@ require (
 	github.com/ncw/swift/v2/v2 v2.0.0
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
-	github.com/okta/okta-sdk-golang/v2 v2.3.0
+	github.com/okta/okta-sdk-golang/v2 v2.3.1
 	github.com/oracle/oci-go-sdk/v43 v43.1.0
 	github.com/ory/dockertest v3.7.0+incompatible
 	github.com/ory/dockertest/v3 v3.7.0
