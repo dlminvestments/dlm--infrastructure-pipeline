@@ -87,7 +87,7 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/go-test/deep v1.0.7
 	github.com/google/go-github/v37 v37.0.0
-	github.com/google/go-metrics-stackdriver v0.2.0
+	github.com/google/go-metrics-stackdriver v0.3.0
 	github.com/hashicorp/consul-template v0.26.0
 	github.com/hashicorp/consul/api v1.9.1
 	github.com/hashicorp/errwrap v1.1.0
