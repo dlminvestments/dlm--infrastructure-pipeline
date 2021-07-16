@@ -1,5 +1,0 @@
-organization = "github-universe-2020-demo"
-
-workspaces {
-  name = "infrastructure-pipeline"
-}
