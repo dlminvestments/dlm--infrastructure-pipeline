@@ -7,7 +7,7 @@ terraform {
     }
     azurerm = {
       source  = "hashicorp/azurerm"
-      version = "~> 2.69.0"
+      version = "~> 2.70.0"
     }
   }
   backend "remote" {}
