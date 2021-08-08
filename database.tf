@@ -17,5 +17,9 @@ resource "aws_db_instance" "example" {
   password             = var.db_password
   db_subnet_group_name = data.aws_db_subnet_group.database.name
   skip_final_snapshot  = true
+bc-fix-3f515fc6-7afd-4cd6-a023-1640d2b53dcb
   storage_encrypted = true
+=======
+  multi_az = true
+ main
 }
