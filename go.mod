@@ -88,7 +88,7 @@ require (
 	github.com/go-test/deep v1.0.7
 	github.com/google/go-github/v38 v38.1.0
 	github.com/google/go-metrics-stackdriver v0.3.0
-	github.com/hashicorp/consul-template v0.26.0
+	github.com/hashicorp/consul-template v0.27.0
 	github.com/hashicorp/consul/api v1.9.1
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-bindata v3.0.8-0.20180209072458-bf7910af8997+incompatible
