@@ -58,15 +58,20 @@ require (
 	github.com/SAP/go-hdb v0.105.2
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
+renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aerospike/aerospike-client-go/v5 v5.4.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1231
+=======
+	github.com/aerospike/aerospike-client-go/v5 v5.3.0
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1233
+main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.1.10
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
 	github.com/armon/go-metrics v0.3.9
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.40.21
+	github.com/aws/aws-sdk-go v1.40.24
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
