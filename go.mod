@@ -18,7 +18,7 @@ require (
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/zclconf/go-cty v1.9.0
+	github.com/zclconf/go-cty v1.9.1
 	go.uber.org/zap v1.19.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.4.0
@@ -48,7 +48,7 @@ replace github.com/hashicorp/vault/api => ./api
 replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
-	cloud.google.com/go v0.91.1
+	cloud.google.com/go v0.93.3
 	cloud.google.com/go/spanner v1.5.1
 	cloud.google.com/go/storage v1.6.0
 	github.com/Azure/azure-storage-blob-go v0.14.0
@@ -63,15 +63,19 @@ renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1231
 =======
 	github.com/aerospike/aerospike-client-go/v5 v5.3.0
+renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1233
 main
+=======
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1239
+ main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.1.10
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
 	github.com/armon/go-metrics v0.3.9
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.40.24
+	github.com/aws/aws-sdk-go v1.40.26
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -165,8 +169,8 @@ main
 	github.com/ncw/swift/v2/v2 v2.0.0
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
-	github.com/okta/okta-sdk-golang/v2 v2.5.2
-	github.com/oracle/oci-go-sdk/v45 v45.2.0
+	github.com/okta/okta-sdk-golang/v2 v2.6.1
+	github.com/oracle/oci-go-sdk/v46 v46.0.0
 	github.com/ory/dockertest v3.7.0+incompatible
 	github.com/ory/dockertest/v3 v3.7.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
