@@ -132,7 +132,7 @@ main
 	github.com/hashicorp/vault-plugin-database-couchbase v0.4.1
 	github.com/hashicorp/vault-plugin-database-elasticsearch v0.8.0
 	github.com/hashicorp/vault-plugin-database-mongodbatlas v0.4.0
-	github.com/hashicorp/vault-plugin-database-snowflake v0.2.0
+	github.com/hashicorp/vault-plugin-database-snowflake v0.2.1
 	github.com/hashicorp/vault-plugin-mock v0.19.13
 	github.com/hashicorp/vault-plugin-secrets-ad v0.10.0
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.9.0
