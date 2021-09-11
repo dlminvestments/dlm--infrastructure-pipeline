@@ -59,10 +59,10 @@ require (
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
-	github.com/aerospike/aerospike-client-go/v5 v5.4.0
+	github.com/aerospike/aerospike-client-go/v5 v5.5.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1253
 =======
-	github.com/aerospike/aerospike-client-go/v5 v5.3.0
+	github.com/aerospike/aerospike-client-go/v5 v5.5.0
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1253
 main
