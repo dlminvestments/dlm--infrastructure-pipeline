@@ -9,8 +9,8 @@ spec:
   ports:
     - name: http
       protocol: TCP
-      port: 9090
-      targetPort: 9090
+      port: 8500
+      targetPort: 8500
 ---
 apiVersion: v1
 kind: ServiceAccount
@@ -32,9 +32,9 @@ metadata:
 data:
   config: |
     {
-      "db_connection": "host=localhost port=5432 user=postgres password=password dbname=products sslmode=disable",
-      "bind_address": ":9090",
-      "metrics_address": ":9103"
+      "db_connection": "host=localhost port=8500 user=postgres password=password dbname=products sslmode=disable",
+      "bind_address": ":8500",
+      "metrics_address": ":8500"
     }
 ---
 apiVersion: apps/v1
@@ -54,7 +54,7 @@ spec:
         app: product-api
       annotations:
         consul.hashicorp.com/connect-inject: "true"
-        consul.hashicorp.com/connect-service-upstreams: "postgres:5432"
+        consul.hashicorp.com/connect-service-upstreams: "postgres:8500"
         consul.hashicorp.com/enable-metrics-merging: "false"
     spec:
       serviceAccountName: product-api
@@ -69,8 +69,8 @@ spec:
          - name: product-api
            image: hashicorpdemoapp/product-api:v0.0.16
            ports:
-             - containerPort: 9090
-             - containerPort: 9103
+             - containerPort: 8500
+             - containerPort: 8500
           env:
             - name: "CONFIG_FILE"
               value: "/config/conf.json"
