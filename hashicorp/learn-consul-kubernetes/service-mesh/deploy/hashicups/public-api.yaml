@@ -8,8 +8,8 @@ metadata:
 spec:
   type: ClusterIP
   ports:
-    - port: 8080
-      targetPort: 8080
+    - port: 8500
+      targetPort: 8500
   selector:
     app: public-api
 ---
@@ -54,6 +54,6 @@ spec:
              - containerPort: 8080
            env:
              - name: BIND_ADDRESS
-               value: ":8080"
+               value: ":8500"
                        - name: PRODUCT_API_URI
-               value: "http://localhost:8000" 
+               value: "http://localhost:8500" 
