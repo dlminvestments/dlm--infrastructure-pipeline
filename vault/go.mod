@@ -84,7 +84,7 @@ require (
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/hashicorp/hcl v1.0.1-vault-3
+	github.com/hashicorp/hcl/v2 v2.10.1
 	github.com/hashicorp/nomad/api b2b9013e524c
 	github.com/hashicorp/raft v1.3.0
 	github.com/hashicorp/raft-autopilot v0.1.3
