@@ -152,7 +152,7 @@ require (
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/posener/complete v1.2.3
-	github.com/pquerna/otp v1.2.1-0.20191009055518-468c2dd2b58d
+	github.com/pquerna/otp v1.3.0
 	github.com/prometheus/client_golang v1.7.1
 	github.com/prometheus/common v0.11.1
 	github.com/rboyer/safeio v0.2.1
