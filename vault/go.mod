@@ -20,7 +20,7 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go v3.1.1+incompatible
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1253
-	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
 	github.com/armon/go-metrics v0.3.9
 	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
