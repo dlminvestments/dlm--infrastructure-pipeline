@@ -120,7 +120,7 @@ require (
 	github.com/influxdata/influxdb v0.13.0
 	github.com/jcmturner/gokrb5/v8 v8.0.0
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
-	github.com/jefferai/jsonx v1.0.0
+	github.com/jefferai/jsonx v1.0.1
 	github.com/joyent/triton-go v1.8.5
 	github.com/keybase/go-crypto v0.0.0-20190403132359-d65b6b94177f
 	github.com/kr/pretty v0.3.0
