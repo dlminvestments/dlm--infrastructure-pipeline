@@ -190,7 +190,7 @@ require (
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
 	gopkg.in/ory-am/dockertest.v3 v3.7.0
-	gopkg.in/square/go-jose.v2 v2.5.1
+	gopkg.in/square/go-jose.v2 v2.6.0
 	layeh.com/radius ad72663a72ab
 	mvdan.cc/gofumpt v0.1.1
 )
