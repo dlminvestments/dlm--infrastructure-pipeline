@@ -141,7 +141,7 @@ require (
 	github.com/mongodb/go-client-mongodb-atlas v0.1.2
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/natefinch/atomic v0.0.0-20150920032501-a62ce929ffcc
-	github.com/ncw/swift v1.0.47
+	github.com/ncw/swift/v2 v2.0.0
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
 	github.com/okta/okta-sdk-golang/v2 v2.0.0
