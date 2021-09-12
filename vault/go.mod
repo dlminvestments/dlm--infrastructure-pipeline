@@ -40,7 +40,7 @@ require (
 	github.com/docker/docker/v20 v20.10.8
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
-	github.com/duosecurity/duo_api_golang v0.0.0-20190308151101-6c680f768e74
+	github.com/duosecurity/duo_api_golang 0e07e9f869e3
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.12.0
 	github.com/fatih/structs v1.1.0
