@@ -12,7 +12,7 @@
     "@hashicorp/platform-util": "0.1.0",
     "@hashicorp/react-alert-banner": "6.2.0",
     "@hashicorp/react-button": "5.2.1",
-    "@hashicorp/react-case-study-slider": "6.1.2",
+    "@hashicorp/react-case-study-slider": "6.1.5",
     "@hashicorp/react-code-block": "4.1.4",
     "@hashicorp/react-consent-manager": "6.0.0",
     "@hashicorp/react-content": "8.0.1",
