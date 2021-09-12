@@ -33,7 +33,7 @@ require (
 	github.com/client9/misspell v0.3.4
 	github.com/cockroachdb/cockroach-go/v2 v2.1.1
 	github.com/containerd/containerd v1.4.3 // indirect
-	github.com/coreos/go-semver v0.2.0
+	github.com/coreos/go-semver v0.3.0
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
 	github.com/denisenkom/go-mssqldb v0.0.0-20200428022330-06a60b6afbbc
 	github.com/docker/distribution v2.7.1+incompatible // indirect
