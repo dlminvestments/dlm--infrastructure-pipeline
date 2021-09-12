@@ -171,7 +171,7 @@ require (
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.etcd.io/bbolt v1.3.5
-	go.etcd.io/etcd v0.5.0-alpha.5.0.20200425165423-262c93980547
+	go.etcd.io/etcd/v3 v3.5.0
 	go.mongodb.org/mongo-driver v1.4.6
 	go.opentelemetry.io/otel v0.20.0
 	go.opentelemetry.io/otel/sdk v0.20.0
