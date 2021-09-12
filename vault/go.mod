@@ -128,7 +128,7 @@ require (
 	github.com/lib/pq v1.8.0
 	github.com/mattn/go-colorable v0.1.8
 	github.com/mholt/archiver v3.1.1+incompatible
-	github.com/michaelklishin/rabbit-hole v0.0.0-20191008194146-93d9988f0cd5
+	github.com/michaelklishin/rabbit-hole/v2 v2.10.0
 	github.com/miekg/dns v1.1.40 // indirect
 	github.com/mitchellh/cli v1.1.2
 	github.com/mitchellh/copystructure v1.0.0
