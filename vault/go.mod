@@ -85,7 +85,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/hcl v1.0.1-vault-3
-	github.com/hashicorp/nomad/api v0.0.0-20191220223628-edc62acd919d
+	github.com/hashicorp/nomad/api b2b9013e524c
 	github.com/hashicorp/raft v1.3.0
 	github.com/hashicorp/raft-autopilot v0.1.3
 	github.com/hashicorp/raft-boltdb/v2 v2.0.0-20210421194847-a7e34179d62c
