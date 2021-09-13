@@ -122,7 +122,7 @@ require (
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
 	github.com/jefferai/jsonx v1.0.0
 	github.com/joyent/triton-go v1.8.5
-	github.com/keybase/go-crypto v0.0.0-20190403132359-d65b6b94177f
+	github.com/keybase/go-crypto de78d2cb44f4
 	github.com/kr/pretty v0.3.0
 	github.com/kr/text v0.2.0
 	github.com/lib/pq v1.10.3
