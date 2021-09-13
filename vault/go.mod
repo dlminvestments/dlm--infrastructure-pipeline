@@ -127,7 +127,7 @@ require (
 	github.com/kr/text v0.2.0
 	github.com/lib/pq v1.10.3
 	github.com/mattn/go-colorable v0.1.8
-	github.com/mholt/archiver v3.1.1+incompatible
+	github.com/mholt/archiver v3.5.0+incompatible
 	github.com/michaelklishin/rabbit-hole/v2 v2.10.0
 	github.com/miekg/dns v1.1.40 // indirect
 	github.com/mitchellh/cli v1.1.2
