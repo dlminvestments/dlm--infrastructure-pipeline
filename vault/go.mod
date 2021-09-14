@@ -140,7 +140,7 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.1
 	github.com/mongodb/go-client-mongodb-atlas v0.12.0
 	github.com/morikuni/aec v1.0.0 // indirect
-	github.com/natefinch/atomic v0.0.0-20150920032501-a62ce929ffcc
+	github.com/natefinch/atomic v1.0.1
 	github.com/ncw/swift/v2 v2.0.0
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
