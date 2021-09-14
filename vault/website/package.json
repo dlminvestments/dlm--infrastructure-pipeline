@@ -27,7 +27,7 @@
     "@hashicorp/react-markdown-page": "1.4.3",
     "@hashicorp/react-product-downloads-page": "2.4.0",
     "@hashicorp/react-section-header": "5.0.4",
-    "@hashicorp/react-subnav": "8.4.0",
+    "@hashicorp/react-subnav": "8.4.3",
     "@hashicorp/react-tabs": "6.0.1",
     "@hashicorp/react-text-split": "3.2.5",
     "@hashicorp/react-text-splits": "3.2.7",
