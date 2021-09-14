@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@hashicorp/platform-cli": "1.1.2",
-    "@hashicorp/platform-nextjs-plugin": "0.1.0",
+    "@hashicorp/platform-nextjs-plugin": "0.3.0",
     "@hashicorp/platform-types": "0.1.1",
     "@types/react": "17.0.11",
     "dart-linkcheck": "2.0.15",
