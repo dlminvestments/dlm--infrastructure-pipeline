@@ -12,7 +12,7 @@ require (
 	cloud.google.com/go/storage v1.6.0
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.21
-	github.com/Azure/go-autorest/autorest/adal v0.9.11
+	github.com/Azure/go-autorest/autorest/adal v0.9.16
 	github.com/Microsoft/hcsshim v0.8.14 // indirect
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/SAP/go-hdb v0.105.3
