@@ -138,7 +138,7 @@ require (
 	github.com/mitchellh/gox v1.0.1
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/mitchellh/reflectwalk v1.0.1
-	github.com/mongodb/go-client-mongodb-atlas v0.1.2
+	github.com/mongodb/go-client-mongodb-atlas v0.12.0
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/natefinch/atomic v0.0.0-20150920032501-a62ce929ffcc
 	github.com/ncw/swift/v2 v2.0.0
