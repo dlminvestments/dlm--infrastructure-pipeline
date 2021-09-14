@@ -25,7 +25,7 @@ require (
 	github.com/armon/go-metrics v0.3.9
 	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
 	github.com/armon/go-radix v1.0.0
-	github.com/asaskevich/govalidator v0.0.0-20180720115003-f9ffefc3facf
+	github.com/asaskevich/govalidator/v11 v11.0.1
 	github.com/aws/aws-sdk-go v1.40.41
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1
