@@ -34,7 +34,7 @@ require (
 	github.com/cockroachdb/cockroach-go/v2 v2.1.1
 	github.com/containerd/containerd v1.4.3 // indirect
 	github.com/coreos/go-semver v0.3.0
-	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
+	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker/v20 v20.10.8
