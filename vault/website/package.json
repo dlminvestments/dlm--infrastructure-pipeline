@@ -38,7 +38,7 @@
     "next-remote-watch": "1.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "tippy.js": "4.3.5"
+    "tippy.js": "6.3.1"
   },
   "devDependencies": {
     "@hashicorp/platform-cli": "1.1.2",
