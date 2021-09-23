@@ -54,7 +54,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
-	github.com/google/go-github/v39 v39.0.0
+	github.com/google/go-github/v39 v39.1.0
 	github.com/google/go-metrics-stackdriver v0.4.0
 	github.com/hashicorp/consul-template v0.27.0
 	github.com/hashicorp/consul/api v1.10.1
