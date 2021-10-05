@@ -177,7 +177,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.0.0
 	go.opentelemetry.io/otel/trace v1.0.1
 	go.uber.org/atomic v1.9.0
-	go.uber.org/goleak v1.1.11
+	go.uber.org/goleak v1.1.12
 	golang.org/x/crypto 32db794688a5
 	golang.org/x/net a5e095526f91
 	golang.org/x/oauth2 2bc19b11175f
