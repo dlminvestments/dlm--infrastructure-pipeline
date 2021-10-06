@@ -62,7 +62,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover v0.0.0-20210818145131-c573d69da192
 	github.com/hashicorp/go-gcp-common v0.7.0
-	github.com/hashicorp/go-hclog v0.16.2
+	github.com/hashicorp/go-hclog v1.0.0
 	github.com/hashicorp/go-kms-wrapping v0.6.7
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-msgpack v1.1.5 // indirect
