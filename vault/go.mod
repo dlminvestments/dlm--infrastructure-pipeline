@@ -37,7 +37,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/denisenkom/go-mssqldb v0.11.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker/v20 v20.10.8
+	github.com/docker/docker/v20 v20.10.9
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
