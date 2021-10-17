@@ -94,7 +94,7 @@ main
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/go-test/deep v1.0.7
+	github.com/go-test/deep v1.0.8
 	github.com/google/go-github/v39 v39.1.0
 	github.com/google/go-metrics-stackdriver v0.4.0
 	github.com/hashicorp/consul-template v0.27.1
