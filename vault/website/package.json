@@ -44,7 +44,7 @@
     "@hashicorp/platform-cli": "1.2.1",
     "@hashicorp/platform-nextjs-plugin": "1.0.1",
     "@hashicorp/platform-types": "0.1.1",
-    "@types/react": "17.0.31",
+    "@types/react": "17.0.32",
     "dart-linkcheck": "2.0.15",
     "husky": "7.0.4",
     "inquirer": "8.2.0",
