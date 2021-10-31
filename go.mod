@@ -127,7 +127,7 @@ main
 	github.com/hashicorp/vault-plugin-auth-gcp v0.10.0
 	github.com/hashicorp/vault-plugin-auth-jwt v0.11.1
 	github.com/hashicorp/vault-plugin-auth-kerberos v0.5.0
-	github.com/hashicorp/vault-plugin-auth-kubernetes v0.11.2
+	github.com/hashicorp/vault-plugin-auth-kubernetes v0.11.3
 	github.com/hashicorp/vault-plugin-auth-oci v0.8.0
 	github.com/hashicorp/vault-plugin-database-couchbase v0.4.1
 	github.com/hashicorp/vault-plugin-database-elasticsearch v0.8.0
