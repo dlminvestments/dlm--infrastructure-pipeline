@@ -192,5 +192,5 @@ require (
 	gopkg.in/ory-am/dockertest.v3 v3.8.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 	layeh.com/radius ad72663a72ab
-	mvdan.cc/gofumpt v0.1.1
+	mvdan.cc/gofumpt v0.2.0
 )
