@@ -173,7 +173,7 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/v3 v3.5.1
 	go.mongodb.org/mongo-driver v1.7.4
-	go.opentelemetry.io/otel v1.1.0
+	go.opentelemetry.io/otel v1.2.0
 	go.opentelemetry.io/otel/sdk v1.1.0
 	go.opentelemetry.io/otel/trace v1.1.0
 	go.uber.org/atomic v1.9.0
