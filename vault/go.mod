@@ -19,7 +19,7 @@ require (
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go/v5 v5.6.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1323
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1325
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
 	github.com/armon/go-metrics v0.3.10
@@ -173,9 +173,15 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/v3 v3.5.1
 	go.mongodb.org/mongo-driver v1.7.4
+renovate/go.opentelemetry.io-otel-sdk-1.x
 	go.opentelemetry.io/otel v1.1.0
 	go.opentelemetry.io/otel/sdk v1.2.0
 	go.opentelemetry.io/otel/trace v1.1.0
+=======
+	go.opentelemetry.io/otel v1.2.0
+	go.opentelemetry.io/otel/sdk v1.1.0
+	go.opentelemetry.io/otel/trace v1.2.0
+main
 	go.uber.org/atomic v1.9.0
 	go.uber.org/goleak v1.1.12
 	golang.org/x/crypto 32db794688a5
