@@ -28,7 +28,7 @@ require (
 	github.com/asaskevich/govalidator/v11 v11.0.1
 	github.com/aws/aws-sdk-go v1.42.2
 	github.com/bitly/go-hostpool v0.1.0 // indirect
-	github.com/cenkalti/backoff/v4 v4.1.1
+	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
 	github.com/client9/misspell v0.3.4
 	github.com/cockroachdb/cockroach-go/v2 v2.2.3
