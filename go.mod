@@ -83,7 +83,7 @@ main
 	github.com/cockroachdb/cockroach-go/v2/v2 v2.2.4
 	github.com/coreos/go-semver v0.3.0
 	github.com/denisenkom/go-mssqldb v0.11.0
-	github.com/docker/docker/v20 v20.10.10
+	github.com/docker/docker/v20 v20.10.11
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
@@ -136,7 +136,7 @@ main
 	github.com/hashicorp/vault-plugin-mock v0.19.13
 	github.com/hashicorp/vault-plugin-secrets-ad v0.11.1
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.10.2
-	github.com/hashicorp/vault-plugin-secrets-azure v0.11.1
+	github.com/hashicorp/vault-plugin-secrets-azure v0.11.2
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.11.0
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.10.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.10.1
@@ -154,7 +154,7 @@ main
 	github.com/kr/pretty v0.3.0
 	github.com/kr/text v0.2.0
 	github.com/lib/pq v1.10.4
-	github.com/mattn/go-colorable v0.1.11
+	github.com/mattn/go-colorable v0.1.12
 	github.com/mholt/archiver v3.5.0+incompatible
 	github.com/michaelklishin/rabbit-hole/v2/v2 v2.11.0
 	github.com/mitchellh/cli v1.1.2

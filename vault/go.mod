@@ -19,8 +19,13 @@ require (
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go/v5 v5.6.0
+renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1350
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
+=======
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1334
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
+main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
 	github.com/armon/go-metrics v0.3.10
 	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
@@ -37,7 +42,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/denisenkom/go-mssqldb v0.11.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker/v20 v20.10.10
+	github.com/docker/docker/v20 v20.10.11
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
@@ -74,11 +79,11 @@ require (
 	github.com/hashicorp/go-secure-stdlib/base62 v0.1.2
 	github.com/hashicorp/go-secure-stdlib/gatedwriter v0.1.1
 	github.com/hashicorp/go-secure-stdlib/kv-builder v0.1.1
-	github.com/hashicorp/go-secure-stdlib/mlock v0.1.1
+	github.com/hashicorp/go-secure-stdlib/mlock v0.1.2
 	github.com/hashicorp/go-secure-stdlib/parseutil v0.1.2
 	github.com/hashicorp/go-secure-stdlib/password v0.1.1
 	github.com/hashicorp/go-secure-stdlib/reloadutil v0.1.1
-	github.com/hashicorp/go-secure-stdlib/strutil v0.1.1
+	github.com/hashicorp/go-secure-stdlib/strutil v0.1.2
 	github.com/hashicorp/go-secure-stdlib/tlsutil v0.1.1
 	github.com/hashicorp/go-sockaddr v1.0.2
 	github.com/hashicorp/go-syslog v1.0.0
@@ -107,7 +112,7 @@ require (
 	github.com/hashicorp/vault-plugin-mock v0.19.13
 	github.com/hashicorp/vault-plugin-secrets-ad v0.11.1
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.10.2
-	github.com/hashicorp/vault-plugin-secrets-azure v0.11.1
+	github.com/hashicorp/vault-plugin-secrets-azure v0.11.2
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.11.0
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.10.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.10.1
@@ -126,7 +131,7 @@ require (
 	github.com/kr/pretty v0.3.0
 	github.com/kr/text v0.2.0
 	github.com/lib/pq v1.10.4
-	github.com/mattn/go-colorable v0.1.11
+	github.com/mattn/go-colorable v0.1.12
 	github.com/mholt/archiver v3.5.0+incompatible
 	github.com/michaelklishin/rabbit-hole/v2 v2.11.0
 	github.com/miekg/dns v1.1.40 // indirect
