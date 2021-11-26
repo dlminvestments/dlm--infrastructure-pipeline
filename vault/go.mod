@@ -126,7 +126,7 @@ require (
 	github.com/kr/pretty v0.3.0
 	github.com/kr/text v0.2.0
 	github.com/lib/pq v1.10.4
-	github.com/mattn/go-colorable v0.1.11
+	github.com/mattn/go-colorable v0.1.12
 	github.com/mholt/archiver v3.5.0+incompatible
 	github.com/michaelklishin/rabbit-hole/v2 v2.11.0
 	github.com/miekg/dns v1.1.40 // indirect
