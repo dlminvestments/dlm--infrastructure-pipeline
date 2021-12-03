@@ -65,7 +65,7 @@ main
 	github.com/hashicorp/consul/api v1.11.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
-	github.com/hashicorp/go-discover v0.0.0-20210818145131-c573d69da192
+	github.com/hashicorp/go-discover 8b3ddf4349a8
 	github.com/hashicorp/go-gcp-common v0.7.0
 	github.com/hashicorp/go-hclog v1.0.0
 	github.com/hashicorp/go-kms-wrapping v0.6.8
