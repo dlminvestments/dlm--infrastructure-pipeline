@@ -60,14 +60,14 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aerospike/aerospike-client-go/v5 v5.6.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1350
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1365
 =======
 	github.com/aerospike/aerospike-client-go/v5 v5.6.0
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1350
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1365
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1350
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1365
  main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.0
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
@@ -171,8 +171,13 @@ main
 	github.com/oklog/run v1.1.0
 	github.com/okta/okta-sdk-golang/v2 v2.9.1
 	github.com/oracle/oci-go-sdk/v50 v50.1.0
+renovate/github.com-ory-dockertest-v3-3.x
 	github.com/ory/dockertest v3.8.0+incompatible
 	github.com/ory/dockertest/v3 v3.8.1
+=======
+	github.com/ory/dockertest v3.8.1+incompatible
+	github.com/ory/dockertest/v3 v3.8.0
+main
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1
@@ -206,7 +211,7 @@ main
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
-	gopkg.in/ory-am/dockertest.v3 v3.8.0
+	gopkg.in/ory-am/dockertest.v3 v3.8.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	layeh.com/radius 838e26d0c9be
 )
