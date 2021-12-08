@@ -202,7 +202,7 @@ main
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
 	golang.org/x/tools v0.1.7
-	google.golang.org/api v0.60.0
+	google.golang.org/api v0.62.0
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce

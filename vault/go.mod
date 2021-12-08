@@ -196,7 +196,7 @@ main
 	golang.org/x/sys 751e447fb3d0
 	golang.org/x/term 6886f2dfbf5b
 	golang.org/x/tools v0.1.7
-	google.golang.org/api v0.60.0
+	google.golang.org/api v0.62.0
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
