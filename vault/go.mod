@@ -93,7 +93,7 @@ main
 	github.com/hashicorp/nomad/api b2b9013e524c
 	github.com/hashicorp/raft v1.3.2
 	github.com/hashicorp/raft-autopilot v0.1.5
-	github.com/hashicorp/raft-boltdb/v2 v2.0.0-20210421194847-a7e34179d62c
+	github.com/hashicorp/raft-boltdb/v2 v2.2.0
 	github.com/hashicorp/raft-snapshot v1.0.3
 	github.com/hashicorp/serf v0.9.5 // indirect
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.10.0
