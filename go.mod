@@ -9,10 +9,10 @@ require (
 	github.com/hashicorp/go-getter/v2 v2.0.0
 	github.com/hashicorp/go-retryablehttp v0.7.0
 	github.com/hashicorp/go-version v1.3.0
-	github.com/hashicorp/hcl/v2 v2.10.1
+	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/iancoleman/strcase v0.2.0
 	github.com/mattn/go-isatty v0.0.14
-	github.com/open-policy-agent/opa v0.34.2
+	github.com/open-policy-agent/opa v0.35.0
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.6.0
@@ -48,7 +48,7 @@ replace github.com/hashicorp/vault/api => ./api
 replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
-	cloud.google.com/go v0.97.0
+	cloud.google.com/go v0.99.0
 	cloud.google.com/go/spanner v1.27.0
 	cloud.google.com/go/storage v1.18.2
 	github.com/Azure/azure-storage-blob-go v0.14.0
@@ -75,7 +75,7 @@ main
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.42.14
+	github.com/aws/aws-sdk-go v1.42.22
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -164,15 +164,20 @@ main
 	github.com/mitchellh/gox v1.0.1
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/mitchellh/reflectwalk v1.0.2
-	github.com/mongodb/go-client-mongodb-atlas v0.13.0
+	github.com/mongodb/go-client-mongodb-atlas v0.14.0
 	github.com/natefinch/atomic 18c0533a5b09
 	github.com/ncw/swift/v2/v2 v2.0.1
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
 	github.com/okta/okta-sdk-golang/v2 v2.9.2
 	github.com/oracle/oci-go-sdk/v50 v50.1.0
+renovate/github.com-ory-dockertest-v3-3.x
+	github.com/ory/dockertest v3.8.0+incompatible
+	github.com/ory/dockertest/v3 v3.8.1
+=======
 	github.com/ory/dockertest v3.8.1+incompatible
 	github.com/ory/dockertest/v3 v3.8.0
+main
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1
@@ -195,14 +200,14 @@ main
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/v3/v3 v3.5.1
-	go.mongodb.org/mongo-driver v1.7.4
+	go.mongodb.org/mongo-driver v1.8.1
 	go.uber.org/atomic v1.9.0
 	golang.org/x/crypto 5ea612d1eb83
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
 	golang.org/x/tools v0.1.7
-	google.golang.org/api v0.60.0
+	google.golang.org/api v0.62.0
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
