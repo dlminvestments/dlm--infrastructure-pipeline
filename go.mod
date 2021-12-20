@@ -116,7 +116,7 @@ main
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/hashicorp/hcl/v2/v2 v2.10.1
+	github.com/hashicorp/hcl/v2/v2 v2.11.1
 	github.com/hashicorp/nomad/api v1.0.4
 	github.com/hashicorp/raft v1.3.2
 	github.com/hashicorp/raft-snapshot v1.0.3
@@ -206,7 +206,7 @@ main
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
-	golang.org/x/tools v0.1.7
+	golang.org/x/tools v0.1.8
 	google.golang.org/api v0.62.0
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
