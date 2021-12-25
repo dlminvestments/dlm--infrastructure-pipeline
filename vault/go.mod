@@ -12,7 +12,7 @@ require (
 	cloud.google.com/go/storage v1.18.2
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.23
-	github.com/Azure/go-autorest/autorest/adal v0.9.17
+	github.com/Azure/go-autorest/autorest/adal v0.9.18
 	github.com/Microsoft/hcsshim v0.8.14 // indirect
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/SAP/go-hdb v0.105.5
@@ -20,10 +20,10 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go/v5 v5.6.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1391
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1402
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1391
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1402
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
@@ -100,8 +100,13 @@ main
 	github.com/hashicorp/vault-plugin-auth-azure v0.9.2
 	github.com/hashicorp/vault-plugin-auth-centrify v0.10.0
 	github.com/hashicorp/vault-plugin-auth-cf v0.10.0
+renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
 	github.com/hashicorp/vault-plugin-auth-gcp v0.11.2
 	github.com/hashicorp/vault-plugin-auth-jwt v0.11.4
+=======
+	github.com/hashicorp/vault-plugin-auth-gcp v0.11.3
+	github.com/hashicorp/vault-plugin-auth-jwt v0.11.2
+main
 	github.com/hashicorp/vault-plugin-auth-kerberos v0.5.0
 	github.com/hashicorp/vault-plugin-auth-kubernetes v0.11.3
 	github.com/hashicorp/vault-plugin-auth-oci v0.9.0
@@ -208,5 +213,5 @@ main
 	gopkg.in/ory-am/dockertest.v3 v3.8.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	layeh.com/radius ad72663a72ab
-	mvdan.cc/gofumpt v0.2.0
+	mvdan.cc/gofumpt v0.2.1
 )

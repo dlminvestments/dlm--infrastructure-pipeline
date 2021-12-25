@@ -48,8 +48,13 @@
     "dart-linkcheck": "2.0.15",
     "husky": "7.0.4",
     "inquirer": "8.2.0",
+renovate/typescript-4.x
+    "prettier": "2.5.0",
+    "typescript": "4.5.4"
+=======
     "prettier": "2.5.1",
     "typescript": "4.5.2"
+main
   },
   "husky": {
     "hooks": {
