@@ -120,7 +120,11 @@
     "find-unused-sass-variables": "3.1.0",
     "glob": "7.2.0",
     "hammer-simulator": "0.0.1",
+snyk-upgrade-2821d160705cbce62adee85b1a0d0924
+    "hugo-bin": "0.78.0",
+=======
     "hugo-bin": "0.79.2",
+main
     "ip": "1.1.5",
     "jquery": "3.6.0",
     "karma": "6.3.9",
