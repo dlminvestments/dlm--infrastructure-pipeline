@@ -20,10 +20,10 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1439
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1442
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1439
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1442
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
