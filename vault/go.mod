@@ -8,7 +8,7 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
 	cloud.google.com/go v0.100.2
-	cloud.google.com/go/spanner v1.28.0
+	cloud.google.com/go/spanner v1.29.0
 	cloud.google.com/go/storage v1.18.2
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.23
@@ -20,8 +20,13 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
+renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1442
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
+=======
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1439
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
+main
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1442
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
@@ -67,7 +72,7 @@ main
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover 8b3ddf4349a8
 	github.com/hashicorp/go-gcp-common v0.7.0
-	github.com/hashicorp/go-hclog v1.0.0
+	github.com/hashicorp/go-hclog v1.1.0
 	github.com/hashicorp/go-kms-wrapping v0.6.8
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-msgpack v1.1.5 // indirect

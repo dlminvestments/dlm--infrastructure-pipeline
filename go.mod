@@ -49,7 +49,7 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
 	cloud.google.com/go v0.100.2
-	cloud.google.com/go/spanner v1.28.0
+	cloud.google.com/go/spanner v1.29.0
 	cloud.google.com/go/storage v1.18.2
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.23
@@ -104,7 +104,7 @@ main
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover 738cb3105cd0
 	github.com/hashicorp/go-gcp-common v0.7.0
-	github.com/hashicorp/go-hclog v1.0.0
+	github.com/hashicorp/go-hclog v1.1.0
 	github.com/hashicorp/go-kms-wrapping v0.6.8
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-msgpack v1.1.5
