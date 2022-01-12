@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-getter/v2 v2.0.0
 	github.com/hashicorp/go-retryablehttp v0.7.0
-	github.com/hashicorp/go-version v1.3.0
+	github.com/hashicorp/go-version v1.4.0
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/iancoleman/strcase v0.2.0
 	github.com/mattn/go-isatty v0.0.14
