@@ -7,8 +7,8 @@ replace github.com/hashicorp/vault/api => ./api
 replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
-	cloud.google.com/go v0.99.0
-	cloud.google.com/go/spanner v1.27.0
+	cloud.google.com/go v0.100.2
+	cloud.google.com/go/spanner v1.29.0
 	cloud.google.com/go/storage v1.18.2
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.23
@@ -18,12 +18,12 @@ require (
 	github.com/SAP/go-hdb v0.105.5
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
-	github.com/aerospike/aerospike-client-go/v5 v5.6.0
+	github.com/aerospike/aerospike-client-go/v5 v5.7.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1402
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1439
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1402
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1439
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
@@ -31,7 +31,7 @@ main
 	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator/v11 v11.0.1
-	github.com/aws/aws-sdk-go v1.42.25
+	github.com/aws/aws-sdk-go v1.42.32
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -62,12 +62,12 @@ main
 	github.com/google/go-github/v39 v39.2.0
 	github.com/google/go-metrics-stackdriver v0.4.0
 	github.com/hashicorp/consul-template v0.27.2
-	github.com/hashicorp/consul/api v1.11.0
+	github.com/hashicorp/consul/api v1.12.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover 8b3ddf4349a8
 	github.com/hashicorp/go-gcp-common v0.7.0
-	github.com/hashicorp/go-hclog v1.0.0
+	github.com/hashicorp/go-hclog v1.1.0
 	github.com/hashicorp/go-kms-wrapping v0.6.8
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-msgpack v1.1.5 // indirect
@@ -91,7 +91,7 @@ main
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/hashicorp/nomad/api b2b9013e524c
-	github.com/hashicorp/raft v1.3.2
+	github.com/hashicorp/raft v1.3.3
 	github.com/hashicorp/raft-autopilot v0.1.5
 	github.com/hashicorp/raft-boltdb/v2 v2.2.0
 	github.com/hashicorp/raft-snapshot v1.0.3
@@ -118,7 +118,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-ad v0.11.1
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.10.2
 	github.com/hashicorp/vault-plugin-secrets-azure v0.11.2
-	github.com/hashicorp/vault-plugin-secrets-gcp v0.11.0
+	github.com/hashicorp/vault-plugin-secrets-gcp v0.11.1
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.10.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.10.1
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.5.1
@@ -138,7 +138,7 @@ main
 	github.com/lib/pq v1.10.4
 	github.com/mattn/go-colorable v0.1.12
 	github.com/mholt/archiver v3.5.0+incompatible
-	github.com/michaelklishin/rabbit-hole/v2 v2.11.0
+	github.com/michaelklishin/rabbit-hole/v2 v2.12.0
 	github.com/miekg/dns v1.1.40 // indirect
 	github.com/mitchellh/cli v1.1.2
 	github.com/mitchellh/copystructure v1.2.0
@@ -176,7 +176,7 @@ main
 	github.com/samuel/go-zookeeper 7117e9ea2414
 	github.com/sasha-s/go-deadlock v0.3.1
 	github.com/sethvargo/go-limiter v0.7.2
-	github.com/shirou/gopsutil v3.21.11+incompatible
+	github.com/shirou/gopsutil v3.21.12+incompatible
 	github.com/stretchr/testify v1.7.0
 	github.com/tencentcloud/tencentcloud-sdk-go v3.0.171+incompatible // indirect
 	github.com/tidwall/pretty v1.0.1 // indirect
