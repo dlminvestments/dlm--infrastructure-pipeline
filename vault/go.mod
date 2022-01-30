@@ -106,7 +106,7 @@ main
 	github.com/hashicorp/vault-plugin-auth-centrify v0.10.0
 	github.com/hashicorp/vault-plugin-auth-cf v0.10.0
 renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
-	github.com/hashicorp/vault-plugin-auth-gcp v0.11.2
+	github.com/hashicorp/vault-plugin-auth-gcp v0.11.3
 	github.com/hashicorp/vault-plugin-auth-jwt v0.11.4
 =======
 	github.com/hashicorp/vault-plugin-auth-gcp v0.11.3
