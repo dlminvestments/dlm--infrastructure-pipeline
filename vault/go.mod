@@ -22,7 +22,7 @@ require (
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1473
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.1.11
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1473
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.0
