@@ -177,7 +177,7 @@ main
 	github.com/okta/okta-sdk-golang/v2 v2.10.0
 	github.com/oracle/oci-go-sdk/v50 v50.1.0
 renovate/github.com-ory-dockertest-v3-3.x
-	github.com/ory/dockertest v3.8.0+incompatible
+	github.com/ory/dockertest v3.8.1+incompatible
 	github.com/ory/dockertest/v3 v3.8.1
 =======
 	github.com/ory/dockertest v3.8.1+incompatible
