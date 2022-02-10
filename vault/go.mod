@@ -191,7 +191,7 @@ main
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.etcd.io/bbolt v1.3.6
-	go.etcd.io/etcd/v3 v3.5.1
+	go.etcd.io/etcd/v3 v3.5.2
 	go.mongodb.org/mongo-driver v1.8.2
 renovate/go.opentelemetry.io-otel-sdk-1.x
 	go.opentelemetry.io/otel v1.3.0
