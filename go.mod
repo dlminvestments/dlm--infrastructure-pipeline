@@ -49,7 +49,7 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
 	cloud.google.com/go v0.100.2
-	cloud.google.com/go/spanner v1.29.0
+	cloud.google.com/go/spanner v1.30.0
 	cloud.google.com/go/storage v1.21.0
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.24
