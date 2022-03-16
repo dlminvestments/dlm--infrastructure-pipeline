@@ -16,7 +16,7 @@ require (
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.8.2
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/zclconf/go-cty v1.10.0
 	go.uber.org/zap v1.21.0
