@@ -211,8 +211,13 @@ main
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
+renovate/google.golang.org-api-0.x
+	golang.org/x/tools v0.1.9
+	google.golang.org/api v0.73.0
+=======
 	golang.org/x/tools v0.1.10
 	google.golang.org/api v0.69.0
+main
 	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
