@@ -149,7 +149,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.7.1
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.4.0
 	github.com/hashicorp/vault/api v1.4.1
-	github.com/hashicorp/vault/sdk v0.3.0
+	github.com/hashicorp/vault/sdk v0.4.1
 	github.com/influxdata/influxdb/v9/v9 v9.9.9
 	github.com/jcmturner/gokrb5/v8 v8.4.2
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
