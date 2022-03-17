@@ -12,11 +12,11 @@ require (
 	github.com/hashicorp/hcl/v2 v2.11.1
 	github.com/iancoleman/strcase v0.2.0
 	github.com/mattn/go-isatty v0.0.14
-	github.com/open-policy-agent/opa v0.37.2
+	github.com/open-policy-agent/opa v0.38.1
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.8.2
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/zclconf/go-cty v1.10.0
 	go.uber.org/zap v1.21.0
@@ -60,14 +60,14 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1522
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1524
 =======
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1522
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1524
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1522
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1524
  main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.1
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
@@ -75,7 +75,7 @@ main
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.43.18
+	github.com/aws/aws-sdk-go v1.43.20
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -149,7 +149,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.7.1
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.4.0
 	github.com/hashicorp/vault/api v1.4.1
-	github.com/hashicorp/vault/sdk v0.3.0
+	github.com/hashicorp/vault/sdk v0.4.1
 	github.com/influxdata/influxdb/v9/v9 v9.9.9
 	github.com/jcmturner/gokrb5/v8 v8.4.2
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
@@ -197,7 +197,7 @@ main
 	github.com/sasha-s/go-deadlock v0.3.1
 	github.com/sethvargo/go-limiter v0.7.2
 	github.com/shirou/gopsutil v3.22.2+incompatible
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/ulikunitz/xz v0.5.7 // indirect
 	github.com/xdg/stringprep v1.0.0 // indirect
@@ -211,8 +211,13 @@ main
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
+renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.1.9
 	google.golang.org/api v0.73.0
+=======
+	golang.org/x/tools v0.1.10
+	google.golang.org/api v0.69.0
+main
 	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce

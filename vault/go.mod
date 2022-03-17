@@ -21,14 +21,14 @@ require (
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1522
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1524
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.1
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1522
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1524
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.1
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1522
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1524
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.1
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
@@ -36,7 +36,7 @@ main
 	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator/v11 v11.0.1
-	github.com/aws/aws-sdk-go v1.43.18
+	github.com/aws/aws-sdk-go v1.43.20
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -131,7 +131,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.4.0
 	github.com/hashicorp/vault-testing-stepwise v0.1.2
 	github.com/hashicorp/vault/api v1.4.1
-	github.com/hashicorp/vault/sdk v0.3.0
+	github.com/hashicorp/vault/sdk v0.4.1
 	github.com/influxdata/influxdb/v2 v2.1.1
 	github.com/jcmturner/gokrb5/v8 v8.4.2
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
@@ -182,7 +182,7 @@ main
 	github.com/sasha-s/go-deadlock v0.3.1
 	github.com/sethvargo/go-limiter v0.7.2
 	github.com/shirou/gopsutil v3.22.2+incompatible
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tencentcloud/tencentcloud-sdk-go v3.0.171+incompatible // indirect
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
@@ -210,8 +210,13 @@ main
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/sys 751e447fb3d0
 	golang.org/x/term 6886f2dfbf5b
+renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.1.9
 	google.golang.org/api v0.73.0
+=======
+	golang.org/x/tools v0.1.10
+	google.golang.org/api v0.69.0
+main
 	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
