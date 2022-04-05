@@ -49,25 +49,25 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
 	cloud.google.com/go v0.100.2
-	cloud.google.com/go/spanner v1.30.0
+	cloud.google.com/go/spanner v1.30.1
 	cloud.google.com/go/storage v1.21.0
 	github.com/Azure/azure-storage-blob-go v0.14.0
-	github.com/Azure/go-autorest/autorest v0.11.24
+	github.com/Azure/go-autorest/autorest v0.11.25
 	github.com/Azure/go-autorest/autorest/adal/v14/v14 v14.2.0
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/SAP/go-hdb v0.105.5
+	github.com/SAP/go-hdb v0.106.0
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1536
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1545
 =======
 	github.com/aerospike/aerospike-client-go/v5 v5.7.0
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1536
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1545
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1536
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1545
  main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.2
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
@@ -75,7 +75,7 @@ main
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.43.26
+	github.com/aws/aws-sdk-go v1.43.32
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -174,7 +174,7 @@ main
 	github.com/ncw/swift/v2/v2 v2.0.1
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
-	github.com/okta/okta-sdk-golang/v2 v2.11.1
+	github.com/okta/okta-sdk-golang/v2 v2.11.2
 	github.com/oracle/oci-go-sdk/v50 v50.1.0
 renovate/github.com-ory-dockertest-v3-3.x
 	github.com/ory/dockertest v3.8.1+incompatible
@@ -196,7 +196,7 @@ main
 	github.com/samuel/go-zookeeper 7117e9ea2414
 	github.com/sasha-s/go-deadlock v0.3.1
 	github.com/sethvargo/go-limiter v0.7.2
-	github.com/shirou/gopsutil v3.22.2+incompatible
+	github.com/shirou/gopsutil v3.22.3+incompatible
 	github.com/stretchr/testify v1.7.1
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/ulikunitz/xz v0.5.7 // indirect
@@ -213,10 +213,10 @@ main
 	golang.org/x/sys a50acf3fe073
 renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.1.9
-	google.golang.org/api v0.73.0
+	google.golang.org/api v0.74.0
 =======
 	golang.org/x/tools v0.1.10
-	google.golang.org/api v0.69.0
+	google.golang.org/api v0.74.0
 main
 	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.28.0
