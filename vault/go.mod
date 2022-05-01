@@ -18,7 +18,7 @@ require (
 	github.com/SAP/go-hdb v0.106.1
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
-	github.com/aerospike/aerospike-client-go/v5 v5.7.0
+	github.com/aerospike/aerospike-client-go/v5 v5.8.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1577
