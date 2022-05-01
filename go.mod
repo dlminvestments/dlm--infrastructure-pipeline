@@ -167,7 +167,7 @@ main
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-testing-interface v1.14.1
 	github.com/mitchellh/gox v1.0.1
-	github.com/mitchellh/mapstructure v1.4.3
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/mitchellh/reflectwalk v1.0.2
 	github.com/mongodb/go-client-mongodb-atlas v0.15.0
 	github.com/natefinch/atomic 18c0533a5b09
