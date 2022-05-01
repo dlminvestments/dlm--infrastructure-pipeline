@@ -99,7 +99,7 @@ main
 	github.com/hashicorp/raft v1.3.7
 	github.com/hashicorp/raft-autopilot v0.1.6
 renovate/github.com-hashicorp-raft-snapshot-1.x
-	github.com/hashicorp/raft-boltdb/v2 v2.2.1
+	github.com/hashicorp/raft-boltdb/v2 v2.2.2
 	github.com/hashicorp/raft-snapshot v1.0.4
 =======
 	github.com/hashicorp/raft-boltdb/v2 v2.2.2
