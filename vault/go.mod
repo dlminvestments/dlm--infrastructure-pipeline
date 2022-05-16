@@ -8,7 +8,7 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
 	cloud.google.com/go v0.101.1
-	cloud.google.com/go/spanner v1.31.0
+	cloud.google.com/go/spanner v1.32.0
 	cloud.google.com/go/storage v1.22.0
 	github.com/Azure/azure-storage-blob-go v0.15.0
 	github.com/Azure/go-autorest/autorest v0.11.27
