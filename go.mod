@@ -158,7 +158,7 @@ main
 	github.com/keybase/go-crypto de78d2cb44f4
 	github.com/kr/pretty v0.3.0
 	github.com/kr/text v0.2.0
-	github.com/lib/pq v1.10.5
+	github.com/lib/pq v1.10.6
 	github.com/mattn/go-colorable v0.1.12
 	github.com/mholt/archiver v3.5.0+incompatible
 	github.com/michaelklishin/rabbit-hole/v2/v2 v2.12.0
