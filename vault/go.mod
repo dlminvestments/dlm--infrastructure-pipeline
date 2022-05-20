@@ -22,14 +22,14 @@ require (
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1595
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.2
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.3
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1595
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.2
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.3
 main
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1595
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.2
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.3
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
 	github.com/armon/go-metrics v0.3.11
