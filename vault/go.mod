@@ -65,7 +65,7 @@ main
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.8
 	github.com/google/go-github/v39 v39.2.0
-	github.com/google/go-metrics-stackdriver v0.4.0
+	github.com/google/go-metrics-stackdriver v0.5.0
 	github.com/hashicorp/consul-template v0.29.0
 	github.com/hashicorp/consul/api v1.12.0
 	github.com/hashicorp/errwrap v1.1.0
