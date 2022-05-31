@@ -112,10 +112,10 @@ main
 	github.com/hashicorp/vault-plugin-auth-cf v0.12.0
 renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
 	github.com/hashicorp/vault-plugin-auth-gcp v0.13.0
-	github.com/hashicorp/vault-plugin-auth-jwt v0.12.1
+	github.com/hashicorp/vault-plugin-auth-jwt v0.13.0
 =======
 	github.com/hashicorp/vault-plugin-auth-gcp v0.13.0
-	github.com/hashicorp/vault-plugin-auth-jwt v0.12.1
+	github.com/hashicorp/vault-plugin-auth-jwt v0.13.0
 main
 	github.com/hashicorp/vault-plugin-auth-kerberos v0.7.0
 	github.com/hashicorp/vault-plugin-auth-kubernetes v0.12.0
