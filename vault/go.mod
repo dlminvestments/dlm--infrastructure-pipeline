@@ -67,7 +67,7 @@ main
 	github.com/google/go-github/v39 v39.2.0
 	github.com/google/go-metrics-stackdriver v0.5.0
 	github.com/hashicorp/consul-template v0.29.0
-	github.com/hashicorp/consul/api v1.12.0
+	github.com/hashicorp/consul/api v1.13.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover 8b3ddf4349a8
