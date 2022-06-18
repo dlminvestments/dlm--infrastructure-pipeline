@@ -71,7 +71,7 @@ main
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover 8b3ddf4349a8
-	github.com/hashicorp/go-gcp-common v0.7.0
+	github.com/hashicorp/go-gcp-common v0.8.0
 	github.com/hashicorp/go-hclog v1.2.1
 	github.com/hashicorp/go-kms-wrapping v0.7.1
 	github.com/hashicorp/go-memdb v1.3.3
