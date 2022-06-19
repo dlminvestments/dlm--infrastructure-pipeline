@@ -178,10 +178,10 @@ main
 	github.com/oracle/oci-go-sdk/v50 v50.1.0
 renovate/github.com-ory-dockertest-v3-3.x
 	github.com/ory/dockertest v3.9.1+incompatible
-	github.com/ory/dockertest/v3 v3.8.1
+	github.com/ory/dockertest/v3 v3.9.1
 =======
 	github.com/ory/dockertest v3.9.1+incompatible
-	github.com/ory/dockertest/v3 v3.8.1
+	github.com/ory/dockertest/v3 v3.9.1
 main
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
