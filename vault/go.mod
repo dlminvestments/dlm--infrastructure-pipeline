@@ -135,7 +135,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.8.0
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.5.0
 	github.com/hashicorp/vault-testing-stepwise v0.1.2
-	github.com/hashicorp/vault/api v1.5.0
+	github.com/hashicorp/vault/api v1.7.2
 	github.com/hashicorp/vault/sdk v0.4.1
 	github.com/influxdata/influxdb/v2 v2.3.0
 	github.com/jcmturner/gokrb5/v8 v8.4.2
