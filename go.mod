@@ -212,10 +212,10 @@ main
 	golang.org/x/oauth2 9bb904979d93
 	golang.org/x/sys a50acf3fe073
 renovate/google.golang.org-api-0.x
-	golang.org/x/tools v0.1.11
+	golang.org/x/tools v0.1.12
 	google.golang.org/api v0.90.0
 =======
-	golang.org/x/tools v0.1.11
+	golang.org/x/tools v0.1.12
 	google.golang.org/api v0.90.0
 main
 	google.golang.org/grpc v1.48.0
