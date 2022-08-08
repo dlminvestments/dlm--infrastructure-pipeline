@@ -1,6 +1,6 @@
 module github.com/accurics/terrascan
 
-go 1.18
+go 1.19
 
 require (
 	github.com/ghodss/yaml v1.0.0
@@ -37,11 +37,11 @@ require (
 	google.golang.org/appengine v1.6.7
 )
 
-go 1.18
+go 1.19
 
 module github.com/hashicorp/vault
 
-go 1.18
+go 1.19
 
 replace github.com/hashicorp/vault/api => ./api
 
