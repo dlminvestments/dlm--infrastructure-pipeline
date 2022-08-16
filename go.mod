@@ -206,7 +206,7 @@ main
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/v3/v3 v3.5.4
 	go.mongodb.org/mongo-driver v1.10.1
-	go.uber.org/atomic v1.9.0
+	go.uber.org/atomic v1.10.0
 	golang.org/x/crypto 5ea612d1eb83
 	golang.org/x/net 3d97a244fca7
 	golang.org/x/oauth2 9bb904979d93
