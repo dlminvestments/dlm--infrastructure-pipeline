@@ -55,7 +55,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.28
 	github.com/Azure/go-autorest/autorest/adal/v14/v14 v14.2.0
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/SAP/go-hdb v0.107.4
+	github.com/SAP/go-hdb v0.108.0
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
