@@ -196,7 +196,7 @@ main
 	github.com/samuel/go-zookeeper 7117e9ea2414
 	github.com/sasha-s/go-deadlock v0.3.1
 	github.com/sethvargo/go-limiter v0.7.2
-	github.com/shirou/gopsutil v3.22.7+incompatible
+	github.com/shirou/gopsutil v3.22.8+incompatible
 	github.com/stretchr/testify v1.8.0
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/ulikunitz/xz v0.5.7 // indirect
