@@ -8,8 +8,13 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 
 require (
 	cloud.google.com/go v0.104.0
+renovate/cloud.google.com-go-spanner-1.x
 	cloud.google.com/go/spanner v1.38.0
 	cloud.google.com/go/storage v1.25.0
+=======
+	cloud.google.com/go/spanner v1.37.0
+	cloud.google.com/go/storage v1.26.0
+main
 	github.com/Azure/azure-storage-blob-go v0.15.0
 	github.com/Azure/go-autorest/autorest v0.11.28
 	github.com/Azure/go-autorest/autorest/adal v0.9.21
@@ -21,14 +26,14 @@ require (
 	github.com/aerospike/aerospike-client-go/v5 v5.9.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1755
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1760
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.5
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1755
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1760
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.5
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1755
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1760
 	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.5
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
