@@ -127,7 +127,7 @@ main
 	github.com/hashicorp/vault-plugin-auth-oci v0.12.0
 	github.com/hashicorp/vault-plugin-database-couchbase v0.8.0
 	github.com/hashicorp/vault-plugin-database-elasticsearch v0.11.1
-	github.com/hashicorp/vault-plugin-database-mongodbatlas v0.7.0
+	github.com/hashicorp/vault-plugin-database-mongodbatlas v0.8.0
 	github.com/hashicorp/vault-plugin-database-snowflake v0.6.0
 	github.com/hashicorp/vault-plugin-mock v0.19.13
 	github.com/hashicorp/vault-plugin-secrets-ad v0.13.1
