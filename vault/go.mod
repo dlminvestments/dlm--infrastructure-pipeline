@@ -114,7 +114,7 @@ main
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.12.0
 	github.com/hashicorp/vault-plugin-auth-azure v0.12.0
 	github.com/hashicorp/vault-plugin-auth-centrify v0.13.0
-	github.com/hashicorp/vault-plugin-auth-cf v0.12.1
+	github.com/hashicorp/vault-plugin-auth-cf v0.13.0
 renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
 	github.com/hashicorp/vault-plugin-auth-gcp v0.14.0
 	github.com/hashicorp/vault-plugin-auth-jwt v0.14.0
