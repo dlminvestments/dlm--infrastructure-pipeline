@@ -233,5 +233,5 @@ main
 	gopkg.in/ory-am/dockertest.v3 v3.9.1
 	gopkg.in/square/go-jose.v2 v2.6.0
 	layeh.com/radius ad72663a72ab
-	mvdan.cc/gofumpt v0.3.1
+	mvdan.cc/gofumpt v0.4.0
 )
