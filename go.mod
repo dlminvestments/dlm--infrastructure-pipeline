@@ -210,7 +210,7 @@ main
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/v3/v3 v3.5.5
-	go.mongodb.org/mongo-driver v1.10.2
+	go.mongodb.org/mongo-driver v1.10.3
 	go.uber.org/atomic v1.10.0
 	golang.org/x/crypto 5ea612d1eb83
 	golang.org/x/net 3d97a244fca7
