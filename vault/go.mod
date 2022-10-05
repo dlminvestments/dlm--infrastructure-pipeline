@@ -71,7 +71,7 @@ main
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/v39 v39.2.0
 	github.com/google/go-metrics-stackdriver v0.5.0
-	github.com/hashicorp/consul-template v0.29.4
+	github.com/hashicorp/consul-template v0.29.5
 	github.com/hashicorp/consul/api v1.15.2
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
