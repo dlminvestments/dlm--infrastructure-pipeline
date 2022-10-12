@@ -50,7 +50,7 @@ main
 	github.com/containerd/containerd v1.4.3 // indirect
 	github.com/coreos/go-semver v0.3.0
 	github.com/coreos/go-systemd/v22 v22.4.0
-	github.com/denisenkom/go-mssqldb v0.12.2
+	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker/v20 v20.10.18
 	github.com/docker/go-connections v0.4.0
