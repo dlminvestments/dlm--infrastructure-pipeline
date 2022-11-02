@@ -222,10 +222,10 @@ main
 	golang.org/x/term 6886f2dfbf5b
 renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.2.0
-	google.golang.org/api v0.101.0
+	google.golang.org/api v0.102.0
 =======
 	golang.org/x/tools v0.2.0
-	google.golang.org/api v0.101.0
+	google.golang.org/api v0.102.0
 main
 	google.golang.org/grpc v1.50.1
 	google.golang.org/protobuf v1.28.1
