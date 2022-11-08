@@ -102,7 +102,7 @@ main
 	github.com/hashicorp/hcl/v2 v2.14.1
 	github.com/hashicorp/nomad/api b2b9013e524c
 	github.com/hashicorp/raft v1.3.11
-	github.com/hashicorp/raft-autopilot v0.1.6
+	github.com/hashicorp/raft-autopilot v0.2.0
 renovate/github.com-hashicorp-raft-snapshot-1.x
 	github.com/hashicorp/raft-boltdb/v2 v2.2.2
 	github.com/hashicorp/raft-snapshot v1.0.4
