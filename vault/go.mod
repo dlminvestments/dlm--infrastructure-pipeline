@@ -63,7 +63,7 @@ main
 	github.com/go-errors/errors v1.4.2
 	github.com/go-ldap/ldap/v3 v3.4.4
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-sql-driver/mysql v1.6.0
+	github.com/go-sql-driver/mysql v1.7.0
 	github.com/go-test/deep v1.0.8
 	github.com/gocql/gocql bc256bbb90de
 	github.com/gogo/protobuf v1.3.2 // indirect

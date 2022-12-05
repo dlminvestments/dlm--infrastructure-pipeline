@@ -98,7 +98,7 @@ main
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-sql-driver/mysql v1.6.0
+	github.com/go-sql-driver/mysql v1.7.0
 	github.com/go-test/deep v1.0.8
 	github.com/google/go-github/v39 v39.2.0
 	github.com/google/go-metrics-stackdriver v0.5.0
