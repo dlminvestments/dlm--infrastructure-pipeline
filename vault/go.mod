@@ -184,7 +184,7 @@ main
 	github.com/posener/complete/v2 v2.0.0
 	github.com/pquerna/otp v1.3.0
 	github.com/prometheus/client_golang v1.14.0
-	github.com/prometheus/common v0.37.0
+	github.com/prometheus/common v0.38.0
 	github.com/rboyer/safeio v0.2.1
 	github.com/ryanuber/columnize v2.1.2+incompatible
 	github.com/ryanuber/go-glob v1.0.0
