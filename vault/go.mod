@@ -59,7 +59,7 @@ main
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
 	github.com/fatih/structs v1.1.0
-	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
+	github.com/ghodss/yaml d8423dcdf344
 	github.com/go-errors/errors v1.4.2
 	github.com/go-ldap/ldap/v3 v3.4.4
 	github.com/go-ole/go-ole v1.2.4 // indirect
