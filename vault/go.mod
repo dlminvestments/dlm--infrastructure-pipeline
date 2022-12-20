@@ -69,7 +69,7 @@ main
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.9
-	github.com/google/go-github/v39 v39.2.0
+	github.com/google/go-github/v48 v48.2.0
 	github.com/google/go-metrics-stackdriver v0.5.0
 	github.com/hashicorp/consul-template v0.29.6
 	github.com/hashicorp/consul/api v1.18.0
