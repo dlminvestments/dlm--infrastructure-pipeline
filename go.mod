@@ -180,7 +180,7 @@ main
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
 	github.com/okta/okta-sdk-golang/v2 v2.16.0
-	github.com/oracle/oci-go-sdk/v50 v50.1.0
+	github.com/oracle/oci-go-sdk/v65 v65.28.0
 renovate/github.com-ory-dockertest-v3-3.x
 	github.com/ory/dockertest v3.9.1+incompatible
 	github.com/ory/dockertest/v3 v3.9.1
