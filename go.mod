@@ -65,14 +65,14 @@ main
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aerospike/aerospike-client-go/v6 v6.7.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.100
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.108
 =======
 	github.com/aerospike/aerospike-client-go/v6 v6.7.0
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.100
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.108
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.100
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.108
  main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.6
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
