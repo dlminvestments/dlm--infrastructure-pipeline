@@ -100,7 +100,7 @@ main
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/go-test/deep v1.1.0
-	github.com/google/go-github/v48 v48.2.0
+	github.com/google/go-github/v49 v49.0.0
 	github.com/google/go-metrics-stackdriver v0.5.0
 	github.com/hashicorp/consul-template v0.29.6
 	github.com/hashicorp/consul/api v1.18.0
