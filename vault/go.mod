@@ -227,7 +227,7 @@ renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.5.0
 	google.golang.org/api v0.106.0
 main
-	google.golang.org/grpc v1.51.0
+	google.golang.org/grpc v1.52.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/mgo.v2 7446a0344b78
 	gopkg.in/ory-am/dockertest.v3 v3.9.1
