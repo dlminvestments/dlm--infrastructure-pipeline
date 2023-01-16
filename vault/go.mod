@@ -56,7 +56,7 @@ main
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.13.0
 	github.com/fatih/structs v1.1.0
 	github.com/ghodss/yaml d8423dcdf344
