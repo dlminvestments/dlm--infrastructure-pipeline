@@ -48,7 +48,7 @@ main
 	github.com/client9/misspell v0.3.4
 	github.com/cockroachdb/cockroach-go/v2 v2.2.20
 	github.com/containerd/containerd v1.4.3 // indirect
-	github.com/coreos/go-semver v0.3.0
+	github.com/coreos/go-semver v0.3.1
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/docker/distribution v2.7.1+incompatible // indirect
