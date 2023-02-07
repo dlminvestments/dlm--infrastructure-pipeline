@@ -133,7 +133,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-ad v0.14.1
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.13.0
 	github.com/hashicorp/vault-plugin-secrets-azure v0.14.1
-	github.com/hashicorp/vault-plugin-secrets-gcp v0.14.1
+	github.com/hashicorp/vault-plugin-secrets-gcp v0.15.0
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.13.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.13.3
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.8.0
