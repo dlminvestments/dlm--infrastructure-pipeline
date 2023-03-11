@@ -67,7 +67,7 @@ main
 	github.com/go-test/deep v1.1.0
 	github.com/gocql/gocql bc256bbb90de
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/v50 v50.1.0
 	github.com/google/go-metrics-stackdriver v0.5.0
