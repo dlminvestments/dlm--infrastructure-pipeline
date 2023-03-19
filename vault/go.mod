@@ -101,7 +101,7 @@ main
 	github.com/hashicorp/golang-lru/v2 v2.0.2
 	github.com/hashicorp/hcl/v2 v2.16.2
 	github.com/hashicorp/nomad/api b2b9013e524c
-	github.com/hashicorp/raft v1.3.11
+	github.com/hashicorp/raft v1.4.0
 	github.com/hashicorp/raft-autopilot v0.2.0
 renovate/github.com-hashicorp-raft-snapshot-1.x
 	github.com/hashicorp/raft-boltdb/v2 v2.2.2
