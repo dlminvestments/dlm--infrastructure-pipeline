@@ -151,7 +151,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.14.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.14.2
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.9.1
-	github.com/hashicorp/vault-plugin-secrets-openldap v0.10.0
+	github.com/hashicorp/vault-plugin-secrets-openldap v0.10.1
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.0
 	github.com/hashicorp/vault/api v1.9.0
 	github.com/hashicorp/vault/sdk v0.8.1
