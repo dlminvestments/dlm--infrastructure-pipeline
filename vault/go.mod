@@ -212,7 +212,7 @@ renovate/go.opentelemetry.io-otel-sdk-1.x
 	go.opentelemetry.io/otel/sdk v1.15.1
 	go.opentelemetry.io/otel/trace v1.15.1
 main
-	go.uber.org/atomic v1.10.0
+	go.uber.org/atomic v1.11.0
 	go.uber.org/goleak v1.2.1
 	golang.org/x/crypto 32db794688a5
 	golang.org/x/net a5e095526f91
