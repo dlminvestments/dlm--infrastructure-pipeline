@@ -202,7 +202,7 @@ main
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.etcd.io/bbolt v1.3.7
 	go.etcd.io/etcd/v3 v3.5.8
-	go.mongodb.org/mongo-driver v1.11.4
+	go.mongodb.org/mongo-driver v1.11.6
 renovate/go.opentelemetry.io-otel-sdk-1.x
 	go.opentelemetry.io/otel v1.15.1
 	go.opentelemetry.io/otel/sdk v1.15.1
