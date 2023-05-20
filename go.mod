@@ -166,7 +166,7 @@ main
 	github.com/lib/pq v1.10.9
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mholt/archiver v3.5.0+incompatible
-	github.com/michaelklishin/rabbit-hole/v2/v2 v2.13.0
+	github.com/michaelklishin/rabbit-hole/v2/v2 v2.15.0
 	github.com/mitchellh/cli v1.1.5
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
