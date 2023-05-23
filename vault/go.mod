@@ -78,7 +78,7 @@ main
 	github.com/hashicorp/go-discover 8b3ddf4349a8
 	github.com/hashicorp/go-gcp-common v0.8.0
 	github.com/hashicorp/go-hclog v1.5.0
-	github.com/hashicorp/go-kms-wrapping/v2 v2.0.8
+	github.com/hashicorp/go-kms-wrapping/v2 v2.0.9
 	github.com/hashicorp/go-memdb v1.3.4
 	github.com/hashicorp/go-msgpack v1.1.5 // indirect
 	github.com/hashicorp/go-multierror v1.1.1
