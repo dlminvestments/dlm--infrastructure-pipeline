@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl/v2 v2.16.2
 	github.com/iancoleman/strcase v0.2.0
-	github.com/mattn/go-isatty v0.0.18
+	github.com/mattn/go-isatty v0.0.19
 	github.com/open-policy-agent/opa v0.52.0
 	github.com/pelletier/go-toml/v2 v2.0.7
 	github.com/pkg/errors v0.9.1
