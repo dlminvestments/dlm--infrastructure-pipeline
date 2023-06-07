@@ -135,7 +135,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-azure v0.16.0
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.15.0
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.14.0
-	github.com/hashicorp/vault-plugin-secrets-kv v0.14.3
+	github.com/hashicorp/vault-plugin-secrets-kv v0.15.0
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.9.1
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.10.1
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.1
