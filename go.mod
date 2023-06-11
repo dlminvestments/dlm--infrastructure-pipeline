@@ -147,11 +147,15 @@ main
 	github.com/hashicorp/vault-plugin-secrets-ad v0.16.0
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.0
 	github.com/hashicorp/vault-plugin-secrets-azure v0.16.0
+renovate/github.com-hashicorp-vault-plugin-secrets-gcp-0.x
+	github.com/hashicorp/vault-plugin-secrets-gcp v0.16.0
+=======
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.15.0
 renovate/github.com-hashicorp-vault-plugin-secrets-kv-0.x
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.14.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.15.0
 =======
+main
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.15.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.14.3
 main
