@@ -7,7 +7,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-getter/v2 v2.2.1
-	github.com/hashicorp/go-retryablehttp v0.7.2
+	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl/v2 v2.17.0
 	github.com/iancoleman/strcase v0.2.0
@@ -65,14 +65,14 @@ main
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
 	github.com/aerospike/aerospike-client-go/v6 v6.12.0
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.356
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.367
 =======
 	github.com/aerospike/aerospike-client-go/v6 v6.12.0
 renovate/github.com-aerospike-aerospike-client-go-v5-5.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.356
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.367
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.356
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.367
  main
 	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.7
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
@@ -80,7 +80,7 @@ main
 	github.com/armon/go-proxyproto f0b8253b1507
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator 7a23bdc65eef
-	github.com/aws/aws-sdk-go v1.44.275
+	github.com/aws/aws-sdk-go v1.44.279
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
@@ -115,12 +115,12 @@ main
 	github.com/hashicorp/go-msgpack/v2 v2.1.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-raftchunking 06142d02589e
-	github.com/hashicorp/go-retryablehttp v0.7.2
+	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/go-rootcerts v1.0.2
 	github.com/hashicorp/go-sockaddr v1.0.2
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/golang-lru/v2 v2.0.2
+	github.com/hashicorp/golang-lru/v2 v2.0.3
 	github.com/hashicorp/hcl/v2/v2 v2.16.2
 	github.com/hashicorp/nomad/api v1.0.4
 	github.com/hashicorp/raft v1.5.0
@@ -148,8 +148,13 @@ main
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.0
 	github.com/hashicorp/vault-plugin-secrets-azure v0.16.0
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.15.0
+renovate/github.com-hashicorp-vault-plugin-secrets-kv-0.x
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.14.0
 	github.com/hashicorp/vault-plugin-secrets-kv v0.15.0
+=======
+	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.15.0
+	github.com/hashicorp/vault-plugin-secrets-kv v0.14.3
+main
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.9.1
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.10.1
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.1
