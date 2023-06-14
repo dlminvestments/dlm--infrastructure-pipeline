@@ -143,7 +143,7 @@ renovate/github.com-hashicorp-vault-plugin-secrets-kv-0.x
 =======
 main
 	github.com/hashicorp/vault-plugin-secrets-gcpkms v0.15.0
-	github.com/hashicorp/vault-plugin-secrets-kv v0.14.3
+	github.com/hashicorp/vault-plugin-secrets-kv v0.15.0
 main
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.0
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.10.1
