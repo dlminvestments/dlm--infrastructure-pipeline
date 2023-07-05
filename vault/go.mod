@@ -230,10 +230,10 @@ main
 	golang.org/x/sys 751e447fb3d0
 	golang.org/x/term 6886f2dfbf5b
 renovate/google.golang.org-api-0.x
-	golang.org/x/tools v0.10.0
+	golang.org/x/tools v0.11.0
 	google.golang.org/api v0.129.0
 =======
-	golang.org/x/tools v0.10.0
+	golang.org/x/tools v0.11.0
 	google.golang.org/api v0.129.0
 main
 	google.golang.org/grpc v1.56.1
