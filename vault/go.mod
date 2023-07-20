@@ -190,7 +190,7 @@ main
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/posener/complete/v2 v2.0.0
+	github.com/posener/complete/v2 v2.1.0
 	github.com/pquerna/otp v1.4.0
 	github.com/prometheus/client_golang v1.16.0
 	github.com/prometheus/common v0.44.0
