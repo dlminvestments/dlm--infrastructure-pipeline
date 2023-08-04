@@ -27,14 +27,14 @@ main
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.506
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.7
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.8
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.506
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.7
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.8
 main
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.506
-	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.7
+	github.com/aliyun/aliyun-oss-go-sdk/v2 v2.2.8
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
 	github.com/armon/go-metrics v0.5.1
