@@ -131,7 +131,7 @@ main
 	github.com/hashicorp/vault-plugin-database-snowflake v0.8.0
 	github.com/hashicorp/vault-plugin-mock v0.19.13
 	github.com/hashicorp/vault-plugin-secrets-ad v0.16.0
-	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.0
+	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.1
 	github.com/hashicorp/vault-plugin-secrets-azure v0.16.1
 renovate/github.com-hashicorp-vault-plugin-secrets-gcp-0.x
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.16.0
