@@ -88,7 +88,7 @@ main
 	github.com/cockroachdb/cockroach-go/v2/v2 v2.3.5
 	github.com/coreos/go-semver v0.3.1
 	github.com/denisenkom/go-mssqldb v0.12.3
-	github.com/docker/docker/v24 v24.0.5
+	github.com/docker/docker/v24 v24.0.6
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
