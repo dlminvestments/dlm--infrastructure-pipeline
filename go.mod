@@ -126,7 +126,7 @@ main
 	github.com/hashicorp/raft v1.5.0
 	github.com/hashicorp/raft-snapshot v1.0.4
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.16.0
-	github.com/hashicorp/vault-plugin-auth-azure v0.16.0
+	github.com/hashicorp/vault-plugin-auth-azure v0.16.1
 	github.com/hashicorp/vault-plugin-auth-centrify v0.15.1
 	github.com/hashicorp/vault-plugin-auth-cf v0.15.1
 renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
