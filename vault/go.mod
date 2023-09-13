@@ -123,7 +123,7 @@ renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
 	github.com/hashicorp/vault-plugin-auth-jwt v0.17.0
 main
 	github.com/hashicorp/vault-plugin-auth-kerberos v0.10.1
-	github.com/hashicorp/vault-plugin-auth-kubernetes v0.16.0
+	github.com/hashicorp/vault-plugin-auth-kubernetes v0.17.1
 	github.com/hashicorp/vault-plugin-auth-oci v0.14.2
 	github.com/hashicorp/vault-plugin-database-couchbase v0.9.4
 	github.com/hashicorp/vault-plugin-database-elasticsearch v0.13.3
