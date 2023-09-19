@@ -148,7 +148,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.1
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.11.2
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.3
-	github.com/hashicorp/vault-testing-stepwise v0.1.3
+	github.com/hashicorp/vault-testing-stepwise v0.1.4
 	github.com/hashicorp/vault/api v1.9.2
 	github.com/hashicorp/vault/sdk v0.9.2
 	github.com/influxdata/influxdb/v2 v2.7.1
