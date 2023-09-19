@@ -150,7 +150,7 @@ main
 	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.3
 	github.com/hashicorp/vault-testing-stepwise v0.1.4
 	github.com/hashicorp/vault/api v1.9.2
-	github.com/hashicorp/vault/sdk v0.9.2
+	github.com/hashicorp/vault/sdk v0.10.0
 	github.com/influxdata/influxdb/v2 v2.7.1
 	github.com/jcmturner/gokrb5/v8 v8.4.4
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
