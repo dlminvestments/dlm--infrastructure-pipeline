@@ -112,7 +112,7 @@ renovate/github.com-hashicorp-raft-snapshot-1.x
 main
 	github.com/hashicorp/serf v0.9.5 // indirect
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.16.0
-	github.com/hashicorp/vault-plugin-auth-azure v0.16.1
+	github.com/hashicorp/vault-plugin-auth-azure v0.16.2
 	github.com/hashicorp/vault-plugin-auth-centrify v0.15.1
 	github.com/hashicorp/vault-plugin-auth-cf v0.15.1
 renovate/github.com-hashicorp-vault-plugin-auth-jwt-0.x
