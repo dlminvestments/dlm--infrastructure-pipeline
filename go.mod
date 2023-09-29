@@ -227,10 +227,10 @@ main
 	golang.org/x/sys a50acf3fe073
 renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.13.0
-	google.golang.org/api v0.138.0
+	google.golang.org/api v0.143.0
 =======
 	golang.org/x/tools v0.13.0
-	google.golang.org/api v0.138.0
+	google.golang.org/api v0.143.0
 main
 	google.golang.org/grpc v1.57.0
 	google.golang.org/protobuf v1.31.0
