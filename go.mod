@@ -120,7 +120,7 @@ main
 	github.com/hashicorp/go-sockaddr v1.0.5
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/golang-lru/v2 v2.0.6
+	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hcl/v2/v2 v2.18.0
 	github.com/hashicorp/nomad/api v1.0.4
 	github.com/hashicorp/raft v1.5.0
