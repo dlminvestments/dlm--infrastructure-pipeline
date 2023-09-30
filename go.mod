@@ -100,8 +100,13 @@ main
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/go-test/deep v1.1.0
+renovate/github.com-google-go-metrics-stackdriver-0.x
 	github.com/google/go-github/v54 v54.0.0
 	github.com/google/go-metrics-stackdriver v0.6.0
+=======
+	github.com/google/go-github/v55 v55.0.0
+	github.com/google/go-metrics-stackdriver v0.5.0
+main
 	github.com/hashicorp/consul-template v0.33.0
 	github.com/hashicorp/consul/api v1.25.1
 	github.com/hashicorp/errwrap v1.1.0
@@ -120,7 +125,7 @@ main
 	github.com/hashicorp/go-sockaddr v1.0.5
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/golang-lru/v2 v2.0.6
+	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hcl/v2/v2 v2.18.0
 	github.com/hashicorp/nomad/api v1.0.4
 	github.com/hashicorp/raft v1.5.0
@@ -232,7 +237,7 @@ renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.13.0
 	google.golang.org/api v0.143.0
 main
-	google.golang.org/grpc v1.57.0
+	google.golang.org/grpc v1.58.2
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/mgo.v2 7446a0344b78
 	gopkg.in/ory-am/dockertest.v3 v3.10.0

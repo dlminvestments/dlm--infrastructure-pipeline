@@ -69,8 +69,13 @@ main
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.5.9
+renovate/github.com-google-go-metrics-stackdriver-0.x
 	github.com/google/go-github/v54 v54.0.0
 	github.com/google/go-metrics-stackdriver v0.6.0
+=======
+	github.com/google/go-github/v55 v55.0.0
+	github.com/google/go-metrics-stackdriver v0.5.0
+main
 	github.com/hashicorp/consul-template v0.33.0
 	github.com/hashicorp/consul/api v1.25.1
 	github.com/hashicorp/errwrap v1.1.0
@@ -85,7 +90,7 @@ main
 	github.com/hashicorp/go-raftchunking 06142d02589e
 	github.com/hashicorp/go-retryablehttp v0.7.4
 	github.com/hashicorp/go-rootcerts v1.0.2
-	github.com/hashicorp/go-secure-stdlib/awsutil v0.2.3
+	github.com/hashicorp/go-secure-stdlib/awsutil v2.0.0
 	github.com/hashicorp/go-secure-stdlib/base62 v0.1.2
 	github.com/hashicorp/go-secure-stdlib/gatedwriter v0.1.1
 	github.com/hashicorp/go-secure-stdlib/kv-builder v0.1.2
@@ -98,7 +103,7 @@ main
 	github.com/hashicorp/go-sockaddr v1.0.5
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/golang-lru/v2 v2.0.6
+	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hcl/v2 v2.18.0
 	github.com/hashicorp/nomad/api b2b9013e524c
 	github.com/hashicorp/raft v1.5.0
@@ -213,13 +218,13 @@ main
 	go.etcd.io/etcd/v3 v3.5.9
 	go.mongodb.org/mongo-driver v1.12.1
 renovate/go.opentelemetry.io-otel-sdk-1.x
-	go.opentelemetry.io/otel v1.16.0
-	go.opentelemetry.io/otel/sdk v1.16.0
-	go.opentelemetry.io/otel/trace v1.16.0
+	go.opentelemetry.io/otel v1.19.0
+	go.opentelemetry.io/otel/sdk v1.19.0
+	go.opentelemetry.io/otel/trace v1.19.0
 =======
-	go.opentelemetry.io/otel v1.16.0
-	go.opentelemetry.io/otel/sdk v1.16.0
-	go.opentelemetry.io/otel/trace v1.16.0
+	go.opentelemetry.io/otel v1.19.0
+	go.opentelemetry.io/otel/sdk v1.19.0
+	go.opentelemetry.io/otel/trace v1.19.0
 main
 	go.uber.org/atomic v1.11.0
 	go.uber.org/goleak v1.2.1
@@ -236,7 +241,7 @@ renovate/google.golang.org-api-0.x
 	golang.org/x/tools v0.13.0
 	google.golang.org/api v0.143.0
 main
-	google.golang.org/grpc v1.57.0
+	google.golang.org/grpc v1.58.2
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/mgo.v2 7446a0344b78
 	gopkg.in/ory-am/dockertest.v3 v3.10.0
