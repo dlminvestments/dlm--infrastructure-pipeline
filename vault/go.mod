@@ -74,7 +74,7 @@ renovate/github.com-google-go-metrics-stackdriver-0.x
 	github.com/google/go-metrics-stackdriver v0.6.0
 =======
 	github.com/google/go-github/v55 v55.0.0
-	github.com/google/go-metrics-stackdriver v0.5.0
+	github.com/google/go-metrics-stackdriver v0.6.0
 main
 	github.com/hashicorp/consul-template v0.33.0
 	github.com/hashicorp/consul/api v1.25.1
