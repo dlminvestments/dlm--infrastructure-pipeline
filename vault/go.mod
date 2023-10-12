@@ -68,7 +68,7 @@ main
 	github.com/gocql/gocql bc256bbb90de
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.3
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 renovate/github.com-google-go-metrics-stackdriver-0.x
 	github.com/google/go-github/v54 v54.0.0
 	github.com/google/go-metrics-stackdriver v0.6.0
