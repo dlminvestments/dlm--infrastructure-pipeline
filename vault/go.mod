@@ -70,7 +70,7 @@ main
 	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.6.0
 renovate/github.com-google-go-metrics-stackdriver-0.x
-	github.com/google/go-github/v54 v54.0.0
+	github.com/google/go-github/v56 v56.0.0
 	github.com/google/go-metrics-stackdriver v0.6.0
 =======
 	github.com/google/go-github/v55 v55.0.0
