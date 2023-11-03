@@ -74,7 +74,7 @@ main
 =======
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.591
  main
-	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.9
+	github.com/aliyun/aliyun-oss-go-sdk/v2/v2 v2.2.10
 	github.com/apple/foundationdb/bindings/go ef9d20a4c233
 	github.com/armon/go-metrics v0.5.1
 	github.com/armon/go-proxyproto f0b8253b1507
