@@ -38,7 +38,7 @@ main
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
 	github.com/armon/go-metrics v0.5.1
-	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
+	github.com/armon/go-proxyproto v0.1.0
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator/v11 v11.0.1
 	github.com/aws/aws-sdk-go v1.47.3
