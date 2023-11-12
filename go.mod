@@ -122,7 +122,7 @@ main
 	github.com/hashicorp/go-raftchunking 06142d02589e
 	github.com/hashicorp/go-retryablehttp v0.7.5
 	github.com/hashicorp/go-rootcerts v1.0.2
-	github.com/hashicorp/go-sockaddr v1.0.5
+	github.com/hashicorp/go-sockaddr v1.0.6
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/golang-lru/v2 v2.0.7
