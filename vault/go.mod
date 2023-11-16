@@ -109,10 +109,10 @@ main
 	github.com/hashicorp/raft v1.5.0
 	github.com/hashicorp/raft-autopilot v0.2.0
 renovate/github.com-hashicorp-raft-snapshot-1.x
-	github.com/hashicorp/raft-boltdb/v2 v2.2.2
+	github.com/hashicorp/raft-boltdb/v2 v2.3.0
 	github.com/hashicorp/raft-snapshot v1.0.4
 =======
-	github.com/hashicorp/raft-boltdb/v2 v2.2.2
+	github.com/hashicorp/raft-boltdb/v2 v2.3.0
 	github.com/hashicorp/raft-snapshot v1.0.4
 main
 	github.com/hashicorp/serf v0.9.5 // indirect
