@@ -9,10 +9,10 @@ replace github.com/hashicorp/vault/sdk => ./sdk
 require (
 	cloud.google.com/go v0.110.10
 renovate/cloud.google.com-go-spanner-1.x
-	cloud.google.com/go/spanner v1.51.0
+	cloud.google.com/go/spanner v1.53.0
 	cloud.google.com/go/storage v1.35.1
 =======
-	cloud.google.com/go/spanner v1.51.0
+	cloud.google.com/go/spanner v1.53.0
 	cloud.google.com/go/storage v1.35.1
 main
 	github.com/Azure/azure-storage-blob-go v0.15.0
