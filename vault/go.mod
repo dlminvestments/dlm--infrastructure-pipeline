@@ -218,13 +218,13 @@ main
 	go.etcd.io/etcd/v3 v3.5.10
 	go.mongodb.org/mongo-driver v1.12.1
 renovate/go.opentelemetry.io-otel-sdk-1.x
-	go.opentelemetry.io/otel v1.20.0
-	go.opentelemetry.io/otel/sdk v1.20.0
-	go.opentelemetry.io/otel/trace v1.20.0
+	go.opentelemetry.io/otel v1.21.0
+	go.opentelemetry.io/otel/sdk v1.21.0
+	go.opentelemetry.io/otel/trace v1.21.0
 =======
-	go.opentelemetry.io/otel v1.20.0
-	go.opentelemetry.io/otel/sdk v1.20.0
-	go.opentelemetry.io/otel/trace v1.20.0
+	go.opentelemetry.io/otel v1.21.0
+	go.opentelemetry.io/otel/sdk v1.21.0
+	go.opentelemetry.io/otel/trace v1.21.0
 main
 	go.uber.org/atomic v1.11.0
 	go.uber.org/goleak v1.3.0
