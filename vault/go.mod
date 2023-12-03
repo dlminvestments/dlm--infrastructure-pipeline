@@ -183,7 +183,7 @@ main
 	github.com/ncw/swift/v2 v2.0.2
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/oklog/run v1.1.0
-	github.com/okta/okta-sdk-golang/v3 v3.0.16
+	github.com/okta/okta-sdk-golang/v3 v3.0.19
 	github.com/oracle/oci-go-sdk/v65 v65.53.0
 renovate/github.com-ory-dockertest-v3-3.x
 	github.com/ory/dockertest v3.9.1+incompatible
