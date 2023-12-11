@@ -41,7 +41,7 @@ main
 	github.com/armon/go-proxyproto v0.1.0
 	github.com/armon/go-radix v1.0.0
 	github.com/asaskevich/govalidator/v11 v11.0.1
-	github.com/aws/aws-sdk-go v1.48.11
+	github.com/aws/aws-sdk-go v1.49.0
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
