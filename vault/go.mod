@@ -26,14 +26,14 @@ main
 	github.com/aerospike/aerospike-client-go/v6 v6.14.1
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.619
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.629
 	github.com/aliyun/aliyun-oss-go-sdk/v3 v3.0.1
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.619
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.629
 	github.com/aliyun/aliyun-oss-go-sdk/v3 v3.0.1
 main
 =======
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.619
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.629
 	github.com/aliyun/aliyun-oss-go-sdk/v3 v3.0.1
 main
 	github.com/apple/foundationdb/bindings/go f7c7a31478e4
