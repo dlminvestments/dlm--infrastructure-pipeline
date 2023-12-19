@@ -23,7 +23,7 @@ main
 	github.com/SAP/go-hdb v1.6.6
 	github.com/Sectorbob/mlab-ns2 v0.0.0-20171030222938-d3aa0c295a8a
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
-	github.com/aerospike/aerospike-client-go/v6 v6.14.1
+	github.com/aerospike/aerospike-client-go/v7 v7.0.0
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 renovate/github.com-aliyun-alibaba-cloud-sdk-go-1.x
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.637
