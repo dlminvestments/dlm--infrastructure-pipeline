@@ -167,7 +167,7 @@ main
 	github.com/lib/pq v1.10.9
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mholt/archiver v3.5.0+incompatible
-	github.com/michaelklishin/rabbit-hole/v2 v2.15.0
+	github.com/michaelklishin/rabbit-hole/v2 v2.16.0
 	github.com/miekg/dns v1.1.40 // indirect
 	github.com/mitchellh/cli v1.1.5
 	github.com/mitchellh/copystructure v1.2.0
