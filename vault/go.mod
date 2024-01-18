@@ -53,7 +53,7 @@ main
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker/v24 v24.0.7
-	github.com/docker/go-connections v0.4.0
+	github.com/docker/go-connections v0.5.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
 	github.com/dustin/go-humanize v1.0.1
