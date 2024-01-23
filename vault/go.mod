@@ -52,7 +52,7 @@ main
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker/v24 v24.0.7
+	github.com/docker/docker/v25 v25.0.0
 	github.com/docker/go-connections v0.5.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/duosecurity/duo_api_golang 0e07e9f869e3
