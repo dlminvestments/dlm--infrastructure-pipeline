@@ -149,7 +149,7 @@ main
 	github.com/hashicorp/vault-plugin-database-mongodbatlas v0.10.1
 	github.com/hashicorp/vault-plugin-database-snowflake v0.9.0
 	github.com/hashicorp/vault-plugin-mock v0.19.13
-	github.com/hashicorp/vault-plugin-secrets-ad v0.16.1
+	github.com/hashicorp/vault-plugin-secrets-ad v0.16.2
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.1
 	github.com/hashicorp/vault-plugin-secrets-azure v0.16.3
 renovate/github.com-hashicorp-vault-plugin-secrets-gcp-0.x
