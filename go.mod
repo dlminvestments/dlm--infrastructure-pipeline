@@ -151,7 +151,7 @@ main
 	github.com/hashicorp/vault-plugin-mock v0.19.13
 	github.com/hashicorp/vault-plugin-secrets-ad v0.16.2
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.1
-	github.com/hashicorp/vault-plugin-secrets-azure v0.16.3
+	github.com/hashicorp/vault-plugin-secrets-azure v0.17.0
 renovate/github.com-hashicorp-vault-plugin-secrets-gcp-0.x
 	github.com/hashicorp/vault-plugin-secrets-gcp v0.17.0
 =======
