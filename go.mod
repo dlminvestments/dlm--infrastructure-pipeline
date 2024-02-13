@@ -127,7 +127,7 @@ main
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/hcl/v2/v2 v2.19.1
-	github.com/hashicorp/nomad/api v1.7.3
+	github.com/hashicorp/nomad/api v1.7.5
 	github.com/hashicorp/raft v1.6.0
 	github.com/hashicorp/raft-snapshot v1.0.4
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.16.1
