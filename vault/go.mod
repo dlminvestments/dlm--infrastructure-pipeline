@@ -214,7 +214,7 @@ main
 	github.com/xdg/stringprep v1.0.0 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
-	go.etcd.io/bbolt v1.3.8
+	go.etcd.io/bbolt v1.3.9
 	go.etcd.io/etcd/v3 v3.5.12
 	go.mongodb.org/mongo-driver v1.13.1
 renovate/go.opentelemetry.io-otel-sdk-1.x
