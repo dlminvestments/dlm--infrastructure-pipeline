@@ -130,7 +130,7 @@ main
 	github.com/hashicorp/vault-plugin-auth-kerberos v0.11.0
 	github.com/hashicorp/vault-plugin-auth-kubernetes v0.18.0
 	github.com/hashicorp/vault-plugin-auth-oci v0.15.1
-	github.com/hashicorp/vault-plugin-database-couchbase v0.9.4
+	github.com/hashicorp/vault-plugin-database-couchbase v0.10.1
 	github.com/hashicorp/vault-plugin-database-elasticsearch v0.13.3
 	github.com/hashicorp/vault-plugin-database-mongodbatlas v0.10.1
 	github.com/hashicorp/vault-plugin-database-snowflake v0.10.0
