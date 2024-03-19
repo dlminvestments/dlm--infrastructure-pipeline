@@ -117,7 +117,7 @@ main
 	github.com/hashicorp/go-hclog v1.6.2
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.16
 	github.com/hashicorp/go-memdb v1.3.4
-	github.com/hashicorp/go-msgpack/v2 v2.1.1
+	github.com/hashicorp/go-msgpack/v2 v2.1.2
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-raftchunking 06142d02589e
 	github.com/hashicorp/go-retryablehttp v0.7.5
