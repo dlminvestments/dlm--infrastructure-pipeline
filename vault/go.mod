@@ -61,7 +61,7 @@ main
 	github.com/fatih/structs v1.1.0
 	github.com/ghodss/yaml d8423dcdf344
 	github.com/go-errors/errors v1.5.1
-	github.com/go-ldap/ldap/v3 v3.4.6
+	github.com/go-ldap/ldap/v3 v3.4.8
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/go-test/deep v1.1.0
