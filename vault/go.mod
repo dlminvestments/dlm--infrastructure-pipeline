@@ -197,7 +197,7 @@ main
 	github.com/pkg/errors v0.9.1
 	github.com/posener/complete/v2 v2.1.0
 	github.com/pquerna/otp v1.4.0
-	github.com/prometheus/client_golang v1.19.0
+	github.com/prometheus/client_golang v1.19.1
 	github.com/prometheus/common v0.53.0
 	github.com/rboyer/safeio v0.2.3
 	github.com/ryanuber/columnize v2.1.2+incompatible
