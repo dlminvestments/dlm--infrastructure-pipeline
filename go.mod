@@ -108,7 +108,7 @@ renovate/github.com-google-go-metrics-stackdriver-0.x
 	github.com/google/go-metrics-stackdriver v0.6.0
 main
 	github.com/hashicorp/consul-template v0.37.6
-	github.com/hashicorp/consul/api v1.28.2
+	github.com/hashicorp/consul/api v1.28.3
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-bindata v3.0.8-0.20180209072458-bf7910af8997+incompatible
 	github.com/hashicorp/go-cleanhttp v0.5.2
