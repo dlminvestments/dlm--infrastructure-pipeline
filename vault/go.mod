@@ -17,7 +17,7 @@ renovate/cloud.google.com-go-spanner-1.x
 main
 	github.com/Azure/azure-storage-blob-go v0.15.0
 	github.com/Azure/go-autorest/autorest v0.11.29
-	github.com/Azure/go-autorest/autorest/adal v0.9.23
+	github.com/Azure/go-autorest/autorest/adal v0.9.24
 	github.com/Microsoft/hcsshim v0.8.14 // indirect
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/SAP/go-hdb v1.8.25
