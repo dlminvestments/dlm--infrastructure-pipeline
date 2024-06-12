@@ -113,7 +113,7 @@ main
 	github.com/hashicorp/go-bindata v3.0.8-0.20180209072458-bf7910af8997+incompatible
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover 738cb3105cd0
-	github.com/hashicorp/go-gcp-common v0.8.0
+	github.com/hashicorp/go-gcp-common v0.9.0
 	github.com/hashicorp/go-hclog v1.6.3
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.16
 	github.com/hashicorp/go-memdb v1.3.4
