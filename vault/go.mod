@@ -10,10 +10,10 @@ require (
 	cloud.google.com/go v0.114.0
 renovate/cloud.google.com-go-spanner-1.x
 	cloud.google.com/go/spanner v1.63.0
-	cloud.google.com/go/storage v1.40.0
+	cloud.google.com/go/storage v1.42.0
 =======
 	cloud.google.com/go/spanner v1.63.0
-	cloud.google.com/go/storage v1.40.0
+	cloud.google.com/go/storage v1.42.0
 main
 	github.com/Azure/azure-storage-blob-go v0.15.0
 	github.com/Azure/go-autorest/autorest v0.11.29
