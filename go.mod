@@ -223,7 +223,7 @@ main
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.etcd.io/bbolt v1.3.10
-	go.etcd.io/etcd/v3/v3 v3.5.14
+	go.etcd.io/etcd/v3/v3 v3.5.16
 	go.mongodb.org/mongo-driver v1.15.1
 	go.uber.org/atomic v1.11.0
 	golang.org/x/crypto 5ea612d1eb83
